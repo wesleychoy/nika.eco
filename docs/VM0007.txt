@@ -1,0 +1,4747 @@
+VCS Methodology
+
+VM0007
+REDD+ Methodology Framework (REDD+ MF)
+
+Version 1.6
+08 September 2020
+Sectoral Scope 14
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+Methodology developed by:
+
+Revision to include project activities on peatlands (version 1.5 of this methodology) prepared by Permian
+Global, Silvestrum and Greifswald University
+
+Revision to include tidal wetland restoration and conservation activities (version 1.6 of this methodology)
+prepared by Silvestrum Climate Associates and Restore America’s Estuaries
+This methodology was revised to include tidal wetland restoration and conservation activities with support
+from the Commission for Environmental Cooperation, The Curtis and Edith Munson Foundation, The
+Ocean Foundation, Conservation International, Blue Ventures, and The Nature Conservancy. Restore
+America’s Estuaries and Silvestrum Climate Associates also wish to acknowledge the authors: Igino
+Emmer, Silvestrum Climate Associates; Brian Needelman and Kyle Derby, University of Maryland; Steve
+Crooks, Silvestrum Climate Associates; Pat Megonigal, Smithsonian Environmental Research Center;
+Matthew Oreska, University of Virginia; and Steve Emmett-Mattox, Restore America’s Estuaries and
+Strategic Collaborations, LLC (current).
+
+REDD+MF - 2
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+Table of Contents
+1
+
+Sources ................................................................................................................................................. 4
+
+2
+
+Summary Description of the Methodology ............................................................................................ 6
+
+3
+
+Definitions............................................................................................................................................ 11
+
+4
+
+Applicability Conditions ....................................................................................................................... 13
+4.1
+
+General ...................................................................................................................................... 13
+
+4.2
+
+All Project Activities ................................................................................................................... 13
+
+4.3
+
+REDD ......................................................................................................................................... 14
+
+4.4
+
+ARR ........................................................................................................................................... 15
+
+4.5
+
+WRC .......................................................................................................................................... 16
+
+5
+
+Project Boundary ................................................................................................................................. 18
+5.1
+
+Geographical Boundaries .......................................................................................................... 19
+
+5.2
+
+Temporal Boundaries ................................................................................................................ 21
+
+5.3
+
+Carbon Pools ............................................................................................................................. 22
+
+5.4
+
+Sources of GHG Emissions ....................................................................................................... 25
+
+6
+
+Baseline Scenario ............................................................................................................................... 28
+6.1
+
+Determination of the Most Plausible Baseline Scenario............................................................ 28
+
+6.2
+
+Re-assessing the Baseline Scenario ......................................................................................... 28
+
+7
+
+Additionality ......................................................................................................................................... 29
+7.1
+
+Project method – all project activities not eligible to use the activity method ............................ 29
+
+7.2
+
+Activity Method – all tidal wetlands conservation and restoration project activities .................. 29
+
+8
+
+Quantification of GHG Emission Reductions and Removals .............................................................. 29
+8.1
+
+Baseline Emissions.................................................................................................................... 29
+
+8.2
+
+Project Emissions ...................................................................................................................... 31
+
+8.3
+
+Leakage ..................................................................................................................................... 31
+
+8.4
+
+Summary of GHG Emission Reduction and/or Removals ......................................................... 32
+
+9
+
+Monitoring............................................................................................................................................ 40
+9.1
+
+Data and Parameters Available at Validation ............................................................................ 40
+
+9.2
+
+Data and Parameters Monitored ............................................................................................... 43
+
+9.3
+
+Description of the Monitoring Plan ............................................................................................. 48
+
+10
+
+References .......................................................................................................................................... 53
+
+REDD+MF - 3
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+1
+
+SOURCES
+This methodology is comprised of a number of modules and tools each of which has been
+assigned an abbreviated title (e.g., CP-AB) which are referenced throughout the modules and
+tools. This methodology uses the latest versions of the following methodologies, modules and
+tools:
+Methodologies:
+
+
+CDM methodology AR-ACM0003 Afforestation and reforestation of lands except
+wetlands
+
+Carbon pool modules:
+
+
+VMD0001 Estimation of carbon stocks in the above- and belowground biomass in live
+tree and non-tree pools (CP-AB)
+
+
+
+VMD0002 Estimation of carbon stocks in the dead-wood pool (CP-D)
+
+
+
+VMD0003 Estimation of carbon stocks in the litter pool (CP-L)
+
+
+
+VMD0004 Estimation of carbon stocks in the soil organic carbon pool (mineral soils) (CPS)
+
+
+
+VMD0005 Estimation of carbon stocks in the long-term wood products pool (CP-W)
+
+Baseline modules:
+
+
+VMD0006 Estimation of baseline carbon stock changes and greenhouse gas emissions
+from planned deforestation/forest degradation and planned wetland degradation (BL-PL)
+
+
+
+VMD0007 Estimation of baseline carbon stock changes and greenhouse gas emissions
+from unplanned deforestation and unplanned wetland degradation (BL-UP)
+
+
+
+VMD0008 Estimation of baseline emission from forest degradation caused by extraction
+of wood for fuel (BL-DFW)
+
+
+
+VMD0041 Estimation of baseline carbon stock changes and greenhouse gas emissions
+in ARR project activities (BL-ARR)
+
+
+
+VMD0042 Estimation of baseline s o i l carbon stock changes and greenhouse gas
+emissions in peatland rewetting and conservation project activities (BL-PEAT)
+
+
+
+VMD0050 Estimation of baseline carbon stock changes and greenhouse gas emissions
+in tidal wetland restoration and conservation project activities (BL-TW)
+
+Leakage modules:
+
+
+VMD0009 Estimation of emissions from activity shifting for avoiding planned
+deforestation/forest degradation and avoiding planned wetland degradation (LK-ASP)
+
+REDD+MF - 4
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+
+VMD0010 Estimation of emissions from activity shifting for avoiding unplanned
+deforestation and avoiding unplanned wetland degradation (LK-ASU)
+
+
+
+VMD0011 Estimation of emissions from market-effects (LK-ME)
+
+
+
+VMD0012 Estimation of emissions from displacement of fuelwood extraction (LK-DFW)
+
+
+
+VMD0043 Estimation of emissions from displacement of pre-project agricultural activities
+(LK-ARR)
+
+
+
+VMD0044 Estimation of emissions from ecological leakage (LK-ECO)
+
+Emissions modules (applicable to baseline, project scenario and leakage):
+
+
+VMD0013 Estimation of greenhouse gas emissions from biomass and peat burning (E–
+BPB)
+
+
+
+VMD0014 Estimation of emissions from fossil fuel combustion (E-FFC)
+
+
+
+CDM tool Estimation of direct N2O emissions from nitrogen application (E-NA)
+
+Monitoring modules:
+
+
+VMD0015 Methods for monitoring of greenhouse gas emissions and removals in REDD
+project activities (M-REDD)
+
+
+
+VMD0045 Methods for monitoring greenhouse gas emissions and removals in ARR
+project activities (M-ARR)
+
+
+
+VMD0046 Methods for monitoring of soil carbon stock changes and greenhouse gas
+emissions and removals in peatland rewetting and conservation project activities (MPEAT)
+
+
+
+VMD0051 Methods for monitoring of soil carbon stock changes and greenhouse gas
+emissions and removals in tidal wetland restoration and conservation project activities
+(M-TW)
+
+Miscellaneous modules:
+
+
+VMD0016 Methods for stratification of the project area (X-STR)
+
+
+
+VMD0017 Estimation of uncertainty for REDD+ project activities (X-UNC)
+
+
+
+VMD0019 Methods to Project Future Conditions
+
+
+
+VMD0052 Demonstration of Additionality of Tidal Wetland Restoration and Conservation
+Project Activities (ADD-AM)
+
+REDD+MF - 5
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Tools:
+
+
+CDM Tool for testing significance of GHG emissions in A/R CDM project activities (TSIG)1
+
+2
+
+
+
+CDM Combined tool to identify the baseline scenario and demonstrate additionality in
+A/R CDM project activities (T-ADD)2
+
+
+
+VCS AFOLU Non-Permanence Risk Tool (T-BAR)
+
+SUMMARY DESCRIPTION OF THE METHODOLOGY
+Additionality and Crediting Method
+Additionality
+
+WRC projects in tidal wetlands: Activity method
+All other project activities: Project Method
+
+Crediting Baseline
+
+Project Method
+
+This REDD+ Methodology Framework document is the basic structure of a modular REDD+
+methodology. It provides the generic functionality of the methodology, which frames pre-defined
+modules and tools that perform a specific function. It constitutes, together with the modules and
+tools it calls upon, a complete REDD+ baseline and monitoring methodology.
+The modules and tools called upon in this document are applicable to:
+
+
+Project activities that reduce emissions from planned (APD) and unplanned (AUDD)
+deforestation
+
+
+
+Activities that reduce emissions from forest degradation
+
+
+
+Afforestation, reforestation and revegetation activities (ARR)
+
+
+
+Project activities that reduce emissions from planned (APWD) and unplanned (AUWD)
+wetland degradation
+
+
+
+Wetland restoration activities (RWE)
+
+or combinations of these.
+Hereafter in this methodology and all other modules related to this methodology applied to
+avoiding planned deforestation projects, where the term “planned deforestation” is used, it refers
+to both planned deforestation and planned degradation.
+The reference to this methodology and the modules used to construct the project-specific
+methodology must be given in the project description (PD).
+
+1 Available at: https://cdm.unfccc.int/methodologies/ARmethodologies/tools/ar-am-tool-04-v1.pdf
+
+2 Available at: https://cdm.unfccc.int/methodologies/ARmethodologies/tools/ar-am-tool-02-v1.pdf; make sure to use
+
+the latest version of the tool
+
+REDD+MF - 6
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Identification of the Most Plausible VCS-eligible Activity(ies)
+To identify the type of VCS-eligible project activity, use the decision trees in Tables 1 to 3 below.
+The decision trees must be used to provide a broad indication of likely baseline type and
+applicability. Ultimately, the relevant baseline modules (BL-UP – avoiding unplanned
+deforestation or wetland degradation; BL-PL – avoiding planned deforestation, planned
+degradation, or planned wetland degradation; BL-DFW – avoiding forest degradation
+(fuelwood/charcoal); BL-ARR - land suited for ARR; BL-PEAT – peatland and BL-TW – tidal
+wetland) must be applied with relevant applicability conditions and criteria.
+Provide all the necessary evidence to demonstrate the type of eligible activity as given in each
+module.
+A project can include areas subject to different eligible activities (e.g., Area A = avoiding planned
+deforestation; Area B = avoiding unplanned deforestation; Area C = avoiding degradation; Area D
+= reforestation; Area E = peatland rewetting and reforestation; Area F = tidal wetland restoration
+and reforestation). In such cases the areas that are eligible for different categories must be
+captured by different strata and clearly delineated (i.e., without spatial overlap), and the
+procedures outlined below applied to each of them separately. Projects may be stand-alone
+REDD, ARR and/or WRC. Projects may combine WRC with REDD, or WRC with ARR, in a single
+area, in which case they must apply concomitantly the procedures for both categories provided in
+this methodology, unless, in the case of stand-alone REDD or ARR on wetlands, the expected
+emissions from the soil organic carbon pool or change in the soil organic carbon pool in the
+project scenario is deemed de minimis, or, in the case of stand-alone RWE with presence of
+vegetation, the expected emissions from the biomass pool or change in the biomass pool in
+the project scenario is deemed de minimis. The tool T-SIG must be used to justify the omission
+of carbon pools and emission sources.
+The demonstration of eligibility must be reported in the PD.
+Tables 1 and 2 below provide a decision tree for identifying the types of REDD and ARR project
+activities eligible under this methodology.
+
+REDD+MF - 7
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+Table 1: Decision Tree for Determining REDD Project Activity Type
+Is the forest land expected to be converted to non-forest land in the baseline case, or expected
+to be subject to authorized conversion to a managed tree plantation in the baseline case?
+YES3
+NO
+Is the land legally authorized and documented Is the forest in the baseline expected to degrade
+to be converted to non-forest or a managed by fuelwood extraction or charcoal production?
+tree plantation?
+YES4
+Avoiding planned
+deforestation/planned
+degradation
+
+NO
+Avoiding unplanned
+deforestation
+
+NO
+
+YES
+Avoiding forest
+degradation
+
+Proposed project is
+not a VCS REDD+5
+activity currently
+covered by the
+methodology
+
+Table 2: Determining ARR Suitability
+Is part or all of the land non-forest land or with degraded and unmanaged forest?
+YES
+
+NO
+
+Suitable for ARR
+
+Not suitable for ARR
+
+If the project area includes peatland already drained6, or tidal wetlands already degraded7 or that
+would be drained or degraded in the baseline case, the project must combine the project activities
+identified above with the WRC category, as set out in Table 3 below.
+
+Table 3: Determination of WRC and Combined Categories
+Baseline Scenario
+Pre-Project
+Condition
+
+Drained
+peatland or
+degraded
+tidal wetland
+
+Project Activity
+
+Land Cover
+
+Non-forest
+
+Combined or
+Stand-alone
+Categories
+
+Peatland rewetting or
+tidal wetland restoration#
+combined with
+conversion to forest, or
+revegetation
+
+RWE+ARR
+
+Wetland restoration
+without vegetation
+establishment or de
+
+RWE
+
+3
+
+If the answer is “yes”, evidence must be provided based on the application of the appropriate baseline module (BLPL for APD and BL-UP for AUDD).
+4 If the answer is “yes”, evidence must be provided based on the application of Module BL-PL. Projects are required
+to show legal permissibility to deforest, suitability of project area for conversion and intent to deforest.
+5 If degradation is occurring through legal or sanctioned timber production this is an eligible IFM activity.
+6 See VCS Program Definitions
+7 See Section 3
+
+REDD+MF - 8
+
+VM0007, Version 1.6
+Sectoral Scope 14
+minimis vegetation
+changes
+
+Forest with deforestation/
+forest degradation
+
+Peatland rewetting and
+avoiding deforestation/
+forest degradation or
+tidal wetland restoration
+and avoiding
+deforestation/forest
+degradation
+
+RWE+REDD
+
+Avoiding drainage
+and/or interrupted
+sediment supply
+Undrained or
+partially
+drained
+peatland or
+intact or
+partially
+altered tidal
+wetland8
+
+Non-forest
+
+Avoiding conversion to
+open water or
+impounded wetland
+
+CIW*
+
+Avoiding degradation
+
+Forest with deforestation/
+forest degradation
+
+Avoiding drainage or
+wetland degradation
+combined with avoiding
+deforestation/forest
+degradation
+
+CIW+REDD
+
+#
+
+Includes wetland creation (see VCS Methodology Requirements).
+* Includes Avoiding Unplanned Wetland Degradation (AUWD) and Avoiding Planned Wetland
+Degradation (APWD).
+Improved forest management (IFM) is not covered by this methodology.
+In Table 4 below, the modules and tools are listed, and it is indicated when use of modules/tools
+is mandatory, optional or not applicable under each activity type.
+Where REDD or ARR project activities take place in combination with WRC, the project must
+adhere to both the respective project category modules and the relevant WRC modules. For
+example, an AUDD project combined with AUWD on tidal wetland, must follow the instructions
+provided in both respective columns.
+
+8 The CIW category includes activities that reduce GHG emissions by avoiding degradation and/or the conversion of
+
+wetlands that are intact or partially altered while still maintaining their natural functions, including hydrological
+conditions, sediment supply, salinity characteristics, water quality and/or native plant communities.
+
+REDD+MF - 9
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+Table 4: Determination of When Module/Tool Use is Mandatory (M) or Optional (O) for
+all project activities covered by this methodology
+Module
+
+AUDD
+
+APD
+
+AD#
+
+ARR
+
+RWE
+
+Peatland
+
+Tidal Wetlands
+
+Peatland
+
+Tidal Wetlands
+
+Peatland
+
+Tidal Wetlands
+
+REDD+ MF
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M-REDD
+
+M
+
+M
+
+M
+
+-
+
+-
+
+-
+
+M
+
+M
+
+M
+
+M
+
+M-ARR
+
+-
+
+-
+
+-
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M-PEAT
+
+-
+
+-
+
+-
+
+-
+
+M
+
+-
+
+M
+
+-
+
+M
+
+-
+
+M-TW
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M
+
+-
+
+M
+
+-
+
+M
+
+T-ADD
+
+M
+
+M
+
+M
+
+M
+
+M
+
+@
+
+M
+
+@
+
+M
+
+@
+
+T-BAR
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+X-UNC
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+X-STR
+
+M
+
+M
+
+M
+
+-***
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+BL-UP
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M
+
+M
+
+-
+
+-
+
+BL-PL
+
+-
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M
+
+M
+
+BL-DFW
+
+-
+
+-
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+BL-ARR
+
+-
+
+-
+
+-
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+BL-PEAT
+
+-
+
+-
+
+-
+
+-
+
+M
+
+-
+
+M
+
+-
+
+M
+
+-
+
+BL-TW
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M
+
+-
+
+M
+
+-
+
+M
+
+LK-ASU
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M
+
+M
+
+-
+
+-
+
+LK-ASP
+
+-
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M
+
+M
+
+LK-DFW
+
+-
+
+-
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+LK-ARR
+
+-
+
+-
+
+-
+
+M
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+LK-ECO
+
+-
+
+-
+
+-
+
+-
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+LK-ME
+
+(m)1
+
+(m)1
+
+(m)2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+CP-AB
+
+M
+
+M
+
+M
+
+-**
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+CP-D
+
+(m)3
+
+(m)3
+
+(m)3
+
+-**
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+CP-L
+
+O
+
+O
+
+O
+
+-**
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+CP-S
+
+O
+
+O
+
+O
+
+-**
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+CP-W
+
+(m)1
+
+(m)1
+
+-
+
+-
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+-***
+
+AUWD
+
+APWD
+
+REDD+MF - 10
+
+VM0007, Version 1.6
+Sectoral Scope 14
+AUDD
+
+APD
+
+AD#
+
+ARR
+
+RWE
+
+Peatland
+
+Tidal Wetlands
+
+Peatland
+
+Tidal Wetlands
+
+Peatland
+
+Tidal Wetlands
+
+E-BPB
+
+M
+
+M
+
+M
+
+-**
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+E-FFC
+
+O
+
+O
+
+O
+
+-
+
+(m)5
+
+(m)5
+
+O
+
+O
+
+O
+
+O
+
+E-NA
+
+(m)4
+
+O
+
+O
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Module
+
+#
+
+M
+O
+
+(m)1
+(m)2
+(m)3
+
+(m)4
+(m)5
+*
+
+**
+***
+
+@
+
+3
+
+AUWD
+
+APWD
+
+Avoiding Degradation (Fuelwood / Charcoal)
+Not applicable
+Modules marked with an M are fully mandatory for the given project activity (i.e., the
+indicated modules and tools must be used)
+Modules marked with an O are fully optional for the given project activity (i.e., the
+indicated pools and sources can be included or excluded as decided by the project, but if
+included in the baseline they must also be included in the project scenario)
+Mandatory for the given project activity where the process of deforestation involves
+timber harvesting for commercial markets
+Mandatory for the given project activity where fuelwood or charcoal is harvested for
+commercial markets
+Mandatory for the given project activity if this carbon pool is greater in baseline (postdeforestation/degradation) than project scenario and significant; otherwise can be
+conservatively omitted
+Mandatory for the given project activity where leakage prevention activities include
+increases in the use of fertilizers
+Mandatory for the given project activity on tidal wetlands where it includes fossil fuel
+combustion; otherwise optional
+VCS AFOLU Requirements and the tool T-SIG must be used to justify the omission of
+carbon pools and emission sources
+Procedures provided in Modules BL-ARR and M-ARR
+Procedures provided in Modules BL-PEAT and M-PEAT or BL-TW and M-TW (if WRC
+activities are combined with REDD, CP modules must be used except Module CP-S)
+For tidal wetlands, an activity method is applicable (see Module ADD-AM)
+
+DEFINITIONS
+In addition to the definitions set out in the VCS Program document Program Definitions, the
+following definitions apply to this methodology:
+Baseline Period
+The period of time with a fixed baseline (10 years), applicable to REDD and WRC baselines
+REDD+MF - 11
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Degraded Wetland
+A wetland which has been altered by human or natural impact through the impairment of physical,
+chemical and/or biological properties, and in which the alteration has resulted in a reduction of the
+diversity of wetland-associated species, soil carbon and/or the complexity of other ecosystem
+functions which previously existed in the wetland.
+Expert Judgment
+Judgment on methodological choice and choice of input data and to fill gaps in the available data,
+to select data from a range of possible values or on uncertainty ranges as established in the
+IPCC 2006 Good Practice Guidance. Obtaining well-informed judgments from domain experts
+regarding best estimates and uncertainties of inputs to the quantification of emission reductions is
+an important aspect in various procedures throughout this methodology. The guidance provided
+in Chapter 2, Volume 1 (Approaches to Data Collection) must be used, in particular, Section 2.2
+and Annex 2A.1 of the IPCC 2006 Guidelines for National Greenhouse Gas Inventories.
+Historical Reference Period
+The historical period prior to the project start date that serves as the source of data for defining
+the baseline.
+Organic Soil
+Soil with a surface layer of material that has a sufficient depth and percentage of organic carbon
+to meet thresholds set by the IPCC (Wetlands supplement) for organic soil. Where used in this
+methodology, the term peat is used to refer to organic soil.
+Terrestrial
+On land, in the context of this methodology, though not on a wetland.
+Tidal Wetland
+A subset of wetlands under the influence of the wetting and drying cycles of the tides (e.g.,
+marshes, seagrass meadows, tidal forested wetlands and mangroves). Sub-tidal seagrass
+meadows are not subject to drying cycles, but are still included in this definition.
+Tidal Wetland Restoration
+Reestablishing or improving the hydrology, salinity, water quality, sediment supply and/or
+vegetation in degraded or converted tidal wetlands. For the purpose of this methodology, this
+definition also includes activities that create wetland ecological conditions on uplands under the
+influence of sea level rise or activities that convert one wetland type to another or activities that
+convert open water to wetland.
+Acronyms
+APD
+Avoiding Planned Deforestation
+APWD Avoiding Planned Wetland Degradation
+ARR
+Afforestation, Reforestation and Revegetation
+AUDD Avoiding Unplanned Deforestation and forest Degradation
+AUWD Avoiding Unplanned Wetland Degradation
+REDD+MF - 12
+
+VM0007, Version 1.6
+Sectoral Scope 14
+CIW
+CUPP
+PD
+RDP
+REDD
+RWE
+SOC
+VCS
+VCU
+VVB
+WRC
+
+Conservation of Intact Wetlands
+Conservation of Undrained or Partially drained Peatland
+Project Description
+Rewetting of Drained Peatland
+Reducing Emissions from Deforestation and forest Degradation
+Restoration of Wetlands Ecosystems
+Soil Organic Carbon
+Verified Carbon Standard
+Verified Carbon Unit
+Validation and Verification Body
+Wetlands Restoration and Conservation
+
+For definitions of VCS AFOLU project categories refer to the VCS Standard.
+
+4
+
+APPLICABILITY CONDITIONS
+
+4.1
+
+General
+This REDD+ Methodology Framework is a compilation of modules and tools that together define
+the project activity and necessary methodological steps. By choosing the appropriate modules, a
+project-specific methodology can be constructed. The justification of the choice of modules and
+why they are applicable to the proposed project activity must be given in the PD.
+Specific applicability conditions exist for each module and must be met for the module to be used.
+This methodology includes unplanned forest degradation caused only by extraction of wood for
+fuel. No modules are included for activities to reduce emissions from forest degradation caused
+by illegal harvesting of trees for timber.9
+Use of this methodology is subject to the following applicability conditions, noting the project must
+also comply with the applicability conditions of the applied modules and tools.
+
+4.2
+
+All Project Activities
+All land areas registered under the CDM or under any other GHG program (both voluntary and
+compliance-oriented) must be transparently reported and excluded from the project area. The
+exclusion of land in the project area from any other GHG program must be monitored over time
+and reported in the monitoring reports.
+
+9
+
+Illegal timber harvest may be occurring in the project area in the baseline but conservatively no benefit can be
+calculated for preventing timber harvests, and any emissions arising from timber harvests in the project case must
+be monitored and deducted from calculated project net emission reductions.
+
+REDD+MF - 13
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+4.3
+
+REDD
+4.3.1
+
+All REDD Activity Types
+
+REDD activity types are applicable under the following conditions:
+
+
+Land in the project area has qualified as forest (following the definition used by VCS; in
+addition, see Section 5.1.2) for at least the 10 years prior to the project start date.
+Mangrove forests are excluded from any tree height requirement in a forest definition, as
+they consist of (close to) 100% mangrove species, which often do not reach the same
+height as other tree species, and occupy contiguous areas and their functioning as a
+forest is independent of tree height.
+
+
+
+If land within the project area is peatland or tidal wetlands and emissions from the SOC
+pool are deemed significant, the relevant WRC modules (see Table 3) must be applied
+alongside other relevant modules.
+
+
+
+Baseline deforestation and forest degradation in the project area fall within one or
+more of the following categories:
+
+
+
+4.3.2
+
+
+
+Unplanned deforestation (VCS category AUDD)
+
+
+
+Planned deforestation/degradation (VCS category APD)
+
+
+
+Degradation through extraction of wood for fuel (fuelwood and charcoal
+production) (VCS category AUDD)
+
+Leakage avoidance activities must not include:
+
+
+Agricultural lands that are flooded to increase production (e.g., rice paddy)
+
+
+
+Intensifying livestock production through use of feed-lots10 and/or manure
+lagoons.11
+
+Avoiding Unplanned Deforestation
+
+Avoiding unplanned deforestation activities are applicable under the following conditions:
+
+
+Baseline agents of deforestation must: (i) clear the land for tree harvesting, settlements,
+crop production (agriculturalist) or ranching or aquaculture, where such clearing for crop
+production or ranching or aquaculture does not amount to large scale industrial
+agriculture or aquaculture activities12; (ii) have no documented and uncontested legal
+right to deforest the land for these purposes; and (iii) be either residents in the reference
+region for deforestation (cf. Section 5.1.2 below) or immigrants. Under any other
+condition this methodology must not be used.
+
+10 Feedlots are defined as areas in which naturally grazing animals are confined to an area which produces no feed
+
+and are fed on stored feeds.
+11 Anaerobic lagoons that function as receptacles for animal waste flushed from animal pens. Anaerobic organisms
+
+present in the manure and the environment decompose the waste in the lagoon.
+12 Small-scale / large-scale agriculture or aquaculture is to be defined and justified by the project.
+
+REDD+MF - 14
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+
+4.3.3
+
+If, in the baseline scenario of avoiding unplanned deforestation project activities, postdeforestation land use constitutes reforestation, this methodology may not be used
+Avoiding Planned Deforestation/Degradation
+
+Avoiding planned deforestation/degradation activities are applicable under the following condition:
+
+4.3.4
+
+Where conversion of forest lands to a deforested condition must be legally permitted.
+Avoiding Forest Degradation (Fuelwood/Charcoal)
+
+Avoiding forest degradation activities are applicable under the following conditions:
+
+4.4
+
+
+
+Fuelwood collection and charcoal production must be non-renewable13 in the baseline
+period.
+
+
+
+If degradation is caused by either illegal or legal tree extraction for timber, this
+methodology cannot be used.
+
+ARR
+ARR activities are applicable under the following conditions:
+
+
+The project area is non-forest land or land with degraded forest.14
+
+
+
+In strata with drained15 organic soil, ARR activities must be combined with rewetting.
+
+ARR activities are not eligible under the following conditions:
+
+
+The project scenario involves the application of nitrogen fertilizers.
+
+
+
+If ARR activities enhance peat oxidation. Therefore, on peatland, the project must include
+at least some degree of rewetting. In a tidal system where the tidal regime is restored or
+continues to be in place, ARR activities are considered not to enhance peat oxidation.
+
+Where project activities on wetlands are excluded by the applicability conditions of applied
+modules or tools, such applicability conditions can be disregarded for the purpose of their use
+within this methodology, as quantification procedures for peat and tidal wetland soils are provided
+in Modules BL-PEAT, M-PEAT, BL-TW and M-TW. Therefore, ARR activities on wetlands are
+regarded as combined ARR-RWE activities.
+
+13 As defined in Module BL-DFW
+14 Note that restoring carbon stocks in degraded and managed forest (e.g., enrichment planting) is not an eligible
+
+activity as it falls in the category of Improved Forest Management (IFM). Restoring carbon stocks in a degraded but
+unmanaged forest is an ARR activity.
+15 This requirement supports mangrove reforestation in the natural habitat. ARR activities located in tidal systems
+where the tidal regime is restored or continues to be in place are eligible.
+
+REDD+MF - 15
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+4.5
+
+WRC
+4.5.1
+
+All WRC Activity Types
+
+WRC activities are not eligible under the following conditions:
+
+
+Project activities lower the water table, unless the project converts open water to tidal
+wetlands, or improves the hydrological connection to impounded waters.
+
+
+
+Changes in hydrology do not result in the accumulation or maintenance of SOC stock,
+noting that a) this pertains to projects that intend to sequester carbon through
+sedimentation and/or vegetation development and b) this does not pertain to projects that
+increase salinity to reduce CH4 emissions. Projects that aim to decrease CH4 emissions
+through increased salinity must account for any changes in SOC stocks.
+
+
+
+Hydrological connectivity of the project area with adjacent areas leads to a significant
+increase in GHG emissions outside the project area.
+
+
+
+Project activities include the burning of organic soil.
+
+
+
+Nitrogen fertilizer(s), such as chemical fertilizer or manure, are applied in the project area
+during the project crediting period.
+
+4.5.2
+
+RWE Project Activities
+
+General
+For RWE project activities, prior to the project start date, the project area must meet the following
+conditions16:
+a) The area is free of any land use that could be displaced outside the project area, as
+demonstrated by at least one of the following, where relevant:
+
+
+The project area has been abandoned for two or more years prior to the project
+start date; or
+
+
+
+Use of the project area for commercial purposes (i.e., trade) is not profitable as a
+result of salinity intrusion, market forces, or other factors. In addition, timber
+harvesting in the baseline scenario within the project area does not occur; or
+
+
+
+Degradation of additional wetlands for new agricultural/aquacultural sites within
+the country will not occur or is prohibited by enforced law.
+
+OR
+b) The area is under a land use that could be displaced outside the project area, although in
+such case, baseline emissions from this land use must not be accounted for, and where
+
+16 These conditions are included to avoid leakage.
+
+REDD+MF - 16
+
+VM0007, Version 1.6
+Sectoral Scope 14
+degradation of additional wetlands for new agricultural/aquacultural sites within the
+country will not occur or is prohibited by enforced law.
+OR
+c) The area is under a land use that will continue at a similar or greater level of service or
+production during the project crediting period (e.g., reed or hay harvesting, collection of
+fuelwood, subsistence harvesting, commercial fishing).
+The project proponent must demonstrate (a), (b) or (c) above, based on verifiable information
+such as laws and bylaws, management plans, annual reports, annual accounts, market studies,
+government studies or land use planning reports and documents.
+Peatland Rewetting
+This methodology is applicable to rewetting drained peatland (RDP) activities on project areas
+that meet the VCS definition for peatland (see VCS Program Definitions)17.
+Tidal Wetland Restoration
+Project activities restoring tidal wetlands may include any of the following, or combinations of the
+following:
+
+
+Creating, restoring and/or managing hydrological conditions (e.g., removing tidal barriers,
+improving hydrological connectivity, restoring tidal flow to wetlands or lowering water
+levels on impounded wetlands)
+
+
+
+Altering sediment supply (e.g., beneficial use of dredge material or diverting river
+sediments to sediment-starved areas)
+
+
+
+Changing salinity characteristics (e.g., restoring tidal flow to tidally-restricted areas)
+
+
+
+Improving water quality (e.g., reducing nutrient loads leading to improved water clarity to
+expand seagrass meadows, recovering tidal and other hydrologic flushing and exchange
+or reducing nutrient residence time)
+
+
+
+(Re-)introducing native plant communities (e.g., reseeding or replanting)
+
+
+
+Improving management practice(s) (e.g., removing invasive species, reduced grazing)
+
+
+
+In RWE-ARR project activities, the prescribed burning of herbaceous and shrub
+aboveground biomass (cover burns) may occur
+
+4.5.3
+
+CIW Project Activities
+
+This methodology is applicable to conservation of undrained and partially drained peatland
+(CUPP) activities on project areas that meet the VCS definition for peatland (see VCS Program
+Definitions).
+
+17
+RDP and CUPP project activities are both subcategories of Restoration of Wetland Ecosystems (RWE) and
+Conservation of Intact Wetlands (CIW) of the Wetlands Restoration and Conservation (WRC) project category.
+
+REDD+MF - 17
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Project activities conserving tidal wetlands may include:
+
+
+Protecting at-risk wetlands (e.g., establishing conservation easements, establishing
+community supported management agreements, establishing protective government
+regulations, and preventing disruption of water and/ or sediment supply to wetland areas)
+
+
+
+Improving water management on drained wetlands
+
+
+
+Maintaining or improving water quality for seagrass meadows
+
+
+
+Recharging sediment to avoid drowning of coastal wetlands
+
+
+
+Creating accommodation space for wetlands migrating with sea-level rise
+
+Avoiding Unplanned Wetland Degradation (AUWD)
+Avoiding unplanned wetland degradation activities18 are eligible under the following condition:
+
+
+Baseline agents of wetland degradation (i) cause an alteration in the hydrology of the
+project area (involving drainage, interrupted sediment supply, or both) and/or a loss of
+soil organic carbon; (ii) have no documented and uncontested legal right to degrade the
+wetland; and (iii) are either residents in the reference region for wetland degradation (see
+Section 5.1.4 below) or immigrants. Under any other condition, this methodology must
+not be used.
+
+Avoiding Planned Wetland Degradation (APWD)
+Avoiding planned wetland degradation activities19 are eligible under the following condition:
+
+
+5
+
+Conversion of intact or partially altered wetlands to a degraded condition must be legally
+permitted.
+
+PROJECT BOUNDARY
+The following categories of boundaries must be defined:
+1) The geographic boundaries relevant to the project activity
+2) The temporal boundaries
+3) The carbon pools that the project will consider
+4) The sources and associated types of greenhouse gas emissions that the project will
+affect
+
+18 That is, not combined with REDD project activities. In combined activities, the applicability conditions for REDD
+apply, and those outlined in Modules BL-TW and M-TW.
+19 That is, not combined with REDD project activities. In combined activities, the applicability conditions for REDD
+apply, and those outlined in Modules BL-TW and M-TW.
+
+REDD+MF - 18
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+5.1
+
+Geographical Boundaries
+5.1.1
+
+General
+
+The spatial boundaries20 of a project must clearly be defined, so as to facilitate accurate
+measuring, monitoring, accounting, and verifying of the project’s emissions reductions and
+removals. The project activity may contain more than one discrete area of land. When describing
+physical project boundaries, the following information must be provided per discrete area:
+
+
+Name of the project area (e.g., compartment number, allotment number, local name);
+Unique ID for each discrete parcel of land
+
+
+
+Map(s) of the area (preferably in digital format)
+
+
+
+Geographic coordinates of each polygon vertex along with the documentation of their
+accuracy (from a geo-referenced digital map – data must be provided in the format
+specified / required by the VCS)
+
+
+
+Total land area; and
+
+
+
+Details of landholder and user rights
+
+The geographical boundaries of a project are fixed (ex ante) and cannot change over the
+project lifetime (ex post). Where multiple baselines exist (e.g., planned deforestation, unplanned
+deforestation, forest degradation, degraded land) there must be no overlap in boundaries
+between areas appropriate to each of the baselines. Thus, two project types cannot occur on
+the same piece of land, other than those including a WRC component (i.e., combined
+REDD+WRC, ARR+WRC).
+5.1.2
+
+REDD
+
+The boundary of the REDD activity must be clearly delineated and defined and include only land
+qualifying as forest for a minimum of 10 years prior to the project start date. Mangrove forests are
+excluded from any tree height requirement in a forest definition, as nearly 100% or all of their
+vegetation consists of mangrove species, which often do not reach the same height as other tree
+species, and they occupy contiguous areas. Ecologically, their functioning as a forest is
+independent of tree height.
+In REDD project activities, various kinds of boundaries must be distinguished, depending on the
+REDD category (planned or unplanned deforestation, forest degradation), i.e., in case of:
+
+
+Avoiding planned deforestation: project area and proxy area(s). Refer to Module BL-PL
+for the detailed procedures to define these boundaries.
+
+
+
+Avoiding unplanned deforestation: project area, reference regions for deforestation, and
+leakage belt area. Refer to Module BL-UP for definitions and the detailed procedures to
+define these boundaries.
+
+20 For WRC project activities, including subtidal seagrass areas, where relevant.
+
+REDD+MF - 19
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+
+Avoiding forest degradation: Refer to Module BL-DFW (for degradation due to removals
+for wood fuel or charcoal) for the detailed procedures to define these boundaries.
+
+These procedures also apply to CIW or combined REDD+CIW project activities, see Section
+5.1.4.
+Methods for establishing the boundaries of areas subject to leakage from activity shifting are
+provided in the following modules:
+
+
+For avoiding planned deforestation/degradation: Module LK-ASP
+
+
+
+For avoiding unplanned deforestation: Module BL-UP
+
+5.1.3
+
+ARR
+
+The project area must not have been not cleared of native ecosystems to create GHG
+emissions reductions/removals. Such proof is not required where such clearing took place prior
+to the 10-year period prior to the project start date. Areas that do not meet this requirement
+must be excluded from the project area.
+5.1.4
+
+WRC
+
+The WRC project area must meet the definition as provided in the VCS Standard: “The project
+area shall meet an internationally accepted definition of wetland, such as from the IPCC,
+Ramsar Convention on Wetlands, those established by law or national policy, or those with
+broad agreement in the peer-reviewed scientific literature for specific countries or types of
+wetlands. Common wetland types include peatland, salt marsh, tidal freshwater marsh,
+mangroves, wet floodplain forests, prairie potholes and seagrass meadows.”
+For RWE project activities, the project area must not have been drained or converted to create
+GHG emissions reductions/removals. Such proof is not required where such draining or
+conversion took place prior to 1 January 2008. Areas that do not meet this requirement must be
+excluded from the project boundary.
+The maximum eligible quantity of GHG emission reductions in WRC project activities is limited
+to the difference between the remaining SOC stock in the project and baseline scenarios after
+100 years. If a significant difference at the 100-years mark cannot be demonstrated, the project
+area is not eligible for carbon crediting. The assessment must be executed ex ante using
+conservative parameters. Procedures are provided in Module X-STR.
+WRC project activities in tidal zones must take account of effects of sea-level rise on project
+boundaries. Procedures are provided in Module X-STR.
+In CIW project activities that are not combined with REDD activities, various types of boundaries
+must be distinguished, depending on the CIW category (i.e., planned or unplanned wetland
+degradation). For example, in the case of:
+
+REDD+MF - 20
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+5.2
+
+
+
+Avoiding planned wetland degradation (APWD), the project area and proxy area(s) must
+be defined. Refer to Module BL-PL for the detailed procedures to define these
+boundaries.
+
+
+
+Avoiding unplanned wetland degradation (AUWD), the project area, reference regions for
+wetland degradation, and leakage belt area must be defined. Refer to Module BL-UP for
+definitions and the detailed procedures to define these boundaries.
+
+Temporal Boundaries
+The following temporal boundaries must be specified:
+5.2.1
+
+Start Date and End Date of the Historical Reference Period
+
+REDD
+The historical reference period is the temporal domain from which information on historical
+deforestation is extracted, analyzed and projected into the future. A historical reference period
+must be defined for all eligible REDD categories. The starting date of this period must be between
+9 and 12 years in the past and the end date must be within two years before project start date.
+WRC
+While developing WRC baselines, the project must reference a period of at least 10 years in
+order to model a spatial trend in drainage, and it must take into account long-term (20-year)
+average climate variables, for which procedures are provided in Modules BL-PEAT and BL-TW.
+5.2.2
+
+Start Date and End Date of the Project Crediting Period
+
+General
+The project crediting period is the period of time for which GHG emission reductions or removals
+generated by the project are eligible for crediting with the VCS Program. The project must have a
+robust operating plan covering this period.
+The project crediting period for AFOLU projects must be between 20 and 100 years. The duration
+of the project activity/crediting period must be reported in the PD.
+REDD
+Projections of baseline emissions must be presented in the PD for the first 10-year period after
+the project starting date. Emission reductions/removals can only be claimed for 10-year periods,
+for which the baseline is fixed and a monitoring plan has been implemented.
+
+REDD+MF - 21
+
+VM0007, Version 1.6
+Sectoral Scope 14
+WRC
+Projections of baseline emissions from wetlands must be presented in the PD for the first 10-year
+period after the start of the project. Emission reductions/removals can only be claimed for 10-year
+periods for which the baseline is fixed and a monitoring plan has been implemented.
+Peat Depletion Time (PDT) and Soil organic carbon Depletion Time (SDT)
+The PDT or SDT for a stratum in the baseline scenario equals the period during which the project
+can claim emission reductions from rewetting, restoration or conservation. Procedures for
+determining the PDT or SDT are provided in Module X-STR.
+Peat depletion may be accelerated by peat fires and is attained if the peat has disappeared or if a
+stable water table inhibits further oxidation of the peat.
+Since the PDT and SDT are part of the baseline assessment, they must be reassessed every 10
+years.
+5.2.3
+
+Duration of the Monitoring Periods
+
+The minimum duration of a monitoring period is one year and the maximum duration is 10 years.
+Baseline projections must be annual and be available for each proposed future verification date.
+Data on baseline deforestation and degradation rates, as well as on the hydrological layout and
+climatic variables in wetland areas, must be presented, as well as data collected for future
+baseline revision.
+
+5.3
+
+Carbon Pools
+5.3.1
+
+General
+
+Any significant decreases in carbon stock in the project scenario and any significant increases in
+carbon stock in the baseline scenario must be accounted for. In addition, decreases in the
+baseline scenario and increases in the project scenario can be accounted for. Where ARR or
+REDD activities take place on wetlands, the project must account for expected emissions from
+the soil organic carbon pool or change in the soil organic carbon pool in the project scenario,
+unless they are deemed de minimis. The significance of this pool may be determined by using the
+tool T-SIG.
+Selection of carbon pools and the appropriate justification must be presented in PD.
+5.3.2
+
+REDD
+
+The carbon pools (and corresponding methodology modules) included in or excluded from the
+boundary of REDD project activities are shown in Table 4.
+
+REDD+MF - 22
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Harvested wood products and dead wood must be included when they increase more or
+decrease less in the baseline than in the project scenario. In all other cases, only aboveground
+biomass is mandatory. If a carbon pool is included in the baseline accounting, it must also be
+included in project scenario and leakage accounting.
+Where the carbon pool in harvested wood products and dead wood increases more or decreases
+less in the baseline case than in the project case, the tool T-SIG must be used to determine
+whether significant. Insignificant pools can always be ignored.
+5.3.3
+
+ARR
+
+The carbon pools included in or excluded from the boundary of the ARR component are shown in
+Table 5 below. The selection of carbon pools and the appropriate justification must be provided in
+the PD.
+
+Table 5: Carbon Pools in Baseline and Project Scenario of ARR Project Activities
+Carbon pool
+
+Included?
+
+Justification / Explanation
+
+Aboveground
+tree biomass
+
+Included
+
+Carbon stock in this pool may increase or decrease in the
+baseline scenario and may increase due to the
+implementation of the project activity
+
+Aboveground
+non-tree
+biomass
+
+Included
+
+Carbon stock in this pool (shrub and/or herbaceous
+vegetation) may increase or decrease in the baseline
+scenario and may increase or decrease due to the
+implementation of the project activity
+
+Belowground
+biomass
+
+Included
+
+Carbon stock in this pool may increase or decrease in the
+baseline scenario and is expected to increase due to the
+implementation of the project activity
+
+Terrestrial
+
+Optional
+
+Given the applicability conditions that the project area for
+ARR is non-forest land or land with degraded forest, the litter
+carbon pool will increase due to project implementation. It is
+therefore conservative not to include litter. If included, litter
+must be accounted for using procedures in Modules BL-ARR
+and M-ARR.
+
+Wetlands
+
+Optional
+
+This pool is not mandatory on wetlands but may be included.
+If included, litter must be accounted for using procedures in
+Modules BL-ARR and M-ARR..
+
+Optional
+
+Given the applicability conditions that the project area for
+ARR is non-forest land or land with degraded forest, the
+deadwood carbon pool will increase due to project
+
+Litter
+
+Dead wood
+Terrestrial
+
+REDD+MF - 23
+
+VM0007, Version 1.6
+Sectoral Scope 14
+implementation. It is therefore conservative not to include
+dead wood. If included, dead wood must be accounted for
+using procedures in Modules BL-ARR and M-ARR.
+Optional
+
+This pool is not mandatory on wetlands but may be included.
+If included, dead wood must be accounted for using
+procedures in Modules BL-ARR and M-ARR.
+
+Terrestrial
+
+Included
+
+Carbon stock in this pool may increase due to the
+implementation of the project activity and this increase can be
+assessed as a carbon stock change.
+
+Wetlands
+
+Included
+
+Carbon stock in this pool may increase due to the
+implementation of the ARR project activity. However, for
+organic soil this increase is not accounted for. Emissions from
+soil organic carbon are estimated in Modules BL-PEAT and
+M-PEAT.
+
+Wood products
+
+Excluded
+
+This pool is optional as per VCS rules.
+
+Wetlands
+
+Soil
+
+5.3.4
+
+WRC
+
+The carbon pools included in or excluded from the boundary of the WRC component21 are shown
+in Table 6 below. The selection of carbon pools and the appropriate justification must be provided
+in the PD.
+
+Table 6: Carbon Pools in Baseline and Project Scenario of WRC Project Activities
+Carbon pool
+
+Included?
+
+Justification / Explanation
+
+Aboveground
+tree biomass
+
+Excluded
+
+Covered under REDD or ARR
+
+Aboveground
+shrub biomass
+
+Excluded
+
+Covered under REDD or ARR
+
+Herbaceous
+biomass
+
+Excluded
+
+Covered under ARR
+
+Belowground
+biomass
+
+Included
+
+This pool is not distinguished from the soil pool in WRC
+procedures.
+
+Litter
+
+Excluded
+
+Covered under REDD or ARR
+
+Dead wood
+
+Excluded
+
+Covered under REDD or ARR
+
+21 If combined with REDD or ARR, see Tables 4 and 5 for additional information of pools.
+
+REDD+MF - 24
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+5.4
+
+Soil
+
+Included
+
+Procedures in Modules BL-PEAT, M-PEAT, BL-TW and MTW account for emissions from the soil pool based on proxies
+and default factors.
+
+Wood products
+
+Excluded
+
+Covered under REDD or ARR
+
+Sources of GHG Emissions
+5.4.1
+
+General
+
+The project must account for any significant increases in emissions of carbon dioxide (CO2),
+nitrous oxide (N2O) and methane (CH4) relative to the baseline that are reasonably attributable to
+the project activity, with additional guidance provided in Tables 6, 7 and 8.
+T-SIG may be used to determine whether an emissions source is significant. If a source is
+included in the estimation of baseline emissions22, it must also be included in the calculation of
+project and leakage emissions.
+5.4.2
+
+REDD
+
+The GHG emission sources included in or excluded from the boundary of the REDD project
+activity are shown in Table 7 below. The selection of sources and the appropriate justification
+must be provided in the PD.
+
+Table 7: GHG Sources Included In or Excluded From the REDD Project Boundary
+Source
+
+Gas
+CO2
+
+Baseline
+
+Burning of
+woody
+biomass
+Combustion
+of fossil
+fuels
+Use of
+fertilizers
+
+Project
+
+Justification/Explanation
+
+Included
+
+Carbon stock decreases due to burning are
+accounted as a carbon stock change.
+
+CH4
+
+Included
+
+N2O
+
+Included
+
+Non-CO2 gases emitted from woody biomass
+burning - it is conservative to exclude.
+
+CO2
+
+Included
+
+It is conservative to exclude
+
+CH4
+
+Excluded
+
+Potential emissions are negligible
+
+N2O
+
+Excluded
+
+Potential emissions are negligible
+
+CO2
+
+Excluded
+
+Potential emissions are negligible
+
+CH4
+
+Excluded
+
+Potential emissions are negligible
+
+N2O
+
+Included
+
+It is conservative to exclude
+
+Included
+
+Carbon stock decreases due to burning are
+accounted as a carbon stock change.
+
+CO2
+Burning of
+woody
+biomass
+
+Included?
+
+CH4
+
+Included
+
+N2O
+
+Included
+
+Non-CO2 gases emitted from woody biomass
+burning - must be included if fire occurs.
+
+22 E.g., CH or N2O emission from agriculture that results from deforestation or fire to clear forest land.
+4
+
+REDD+MF - 25
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Source
+Combustion
+of fossil
+fuels
+
+Use of
+fertilizers
+
+5.4.3
+
+Gas
+
+Included?
+
+Justification/Explanation
+
+CO2
+
+Included
+
+Can be neglected if excluded from baseline
+accounting.
+
+CH4
+
+Excluded
+
+Potential emissions are negligible
+
+N2O
+
+Excluded
+
+Potential emissions are negligible
+
+CO2
+
+Excluded
+
+Potential emissions are negligible
+
+CH4
+
+Excluded
+
+Potential emissions are negligible
+
+Included
+
+Can be excluded if excluded from baseline
+accounting except in the situation where fertilizer
+use is enhanced as a leakage avoidance
+mechanism.
+
+N2O
+
+ARR
+
+The GHG emission sources included in or excluded from the boundary of the ARR component
+are shown in Table 8 below. The selection of sources and the appropriate justification must be
+provided in the PD.
+
+Table 8: GHG Sources Included In or Excluded From the ARR Project Boundary
+Source
+
+Gas
+
+Baseline
+
+CO2
+Burning
+of
+biomass
+
+Project
+5.4.4
+
+Justification/Explanation
+
+Included
+
+Carbon stock decreases due to burning are
+accounted as a carbon stock change
+
+CH4
+
+Included
+
+N2O
+
+Included
+
+CO2
+Burning
+of
+biomass
+
+Included?
+
+Included
+
+CH4
+
+Included
+
+N2O
+
+Included
+
+Non-CO2 gases emitted from biomass burning - it is
+conservative to exclude.
+Carbon stock decreases due to burning are
+accounted as a carbon stock change
+Burning of biomass for the purpose of site
+preparation, or as part of forest management, is
+allowed
+
+WRC
+
+The GHG emission sources included in or excluded from the boundary of the WRC component
+are shown in Table 9 below. The selection of sources and the appropriate justification must be
+provided in the PD.
+
+REDD+MF - 26
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+Table 9: GHG Sources Included In or Excluded From the WRC Project Boundary
+Source
+
+Oxidation of
+drained peat
+
+Gas
+
+Included?
+
+Justification/Explanation
+
+CO2
+
+Included
+
+Considered under carbon pools
+
+Included
+
+Required unless de minimis or conservatively
+omitted
+
+Excluded
+
+Excluded as per applicability condition in
+Module BL-PEAT
+
+Included
+
+Considered under carbon pools
+
+Included
+
+Required unless de minimis or conservatively
+omitted
+
+Included
+
+Required unless de minimis or conservatively
+omitted
+
+CO2
+
+Included
+
+It is conservative to exclude.
+
+CH4
+
+Included
+
+Procedures are provided for REDD project
+activities with emissions from biomass
+burning, and REDD-WRC and ARR-RWE
+project activities with emissions from biomass
+and/or peat burning, and RWE project
+activities with emissions from peat burning.
+
+CH4
+N2O
+CO2
+
+Baseline
+
+Emissions from
+tidal wetlands
+mineral soil
+
+Peat or biomass
+combustion
+
+CH4
+N2O
+
+N2O
+Included
+
+Combustion of
+fossil fuels
+
+Oxidation of
+drained peat
+
+Project
+
+Emissions from
+tidal wetlands
+mineral soil
+
+Peat or biomass
+combustion
+
+CO2
+
+Included
+
+CH4
+
+Included
+
+N2O
+
+Included
+
+CO2
+
+Included
+
+Considered under carbon pools
+
+CH4
+
+Included
+
+Required unless de minimis
+
+Excluded
+
+Excluded as per applicability condition in
+Module BL-PEAT
+
+CO2
+
+Included
+
+Considered under carbon pools
+
+CH4
+
+Included
+
+Required unless de minimis
+
+N2O
+
+Included
+
+Required unless de minimis
+
+CO2
+
+Included
+
+CH4
+
+Included
+
+Procedure are provided for REDD project
+activities with emissions from biomass
+burning and REDD-WRC and ARR-RWE
+project activities with emissions from biomass
+and/or peat burning, as well as for RWE
+project activities with emissions from peat
+burning.
+
+N2O
+
+N2O
+Included
+
+Combustion of
+fossil fuels
+
+CO2
+
+Included
+
+CH4
+
+Included
+
+N2O
+
+Included
+
+It is conservative to exclude
+
+Mandatory where RWE project activities on
+tidal wetlands include fossil fuel combustion;
+In CIW project activities, potential emissions
+are negligible.
+
+REDD+MF - 27
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+6
+
+BASELINE SCENARIO
+
+6.1
+
+Determination of the Most Plausible Baseline Scenario
+For each of the included project activities, the most plausible baseline scenario must be
+determined using T-ADD, listed in Section 2 above. The tool has been designed for A/R CDM
+project activities, but is used for this methodology by applying the notes provided for Table 10,
+below.
+
+Table 10: Translation between VCS and CDM Terminology
+Where the tool refers to:
+
+It must be understood as referring to:
+
+A/R, afforestation, reforestation, or forestation
+
+REDD, ARR or WRC project activity
+
+Net greenhouse gas removals by sinks
+
+Net greenhouse gas emission reductions
+
+CDM
+
+VCS
+
+DOE
+
+VVB
+
+tCERs, lCERs
+
+VCUs
+
+Footnotes 1 and 3 included in T-ADD can be disregarded. In case there is a conflict between the
+CDM tool requirements and the VCS rules, the VCS rules must be followed (as set out in VCS
+AFOLU Guidance: Additional guidance for VCS Afforestation, Reforestation and Revegetation
+projects using CDM Afforestation/Reforestation Methodologies, available on the VCS website).
+Where project proponents use available data sourced from a jurisdictional baseline that meets the
+requirements set out in the VCS JNR Requirements, those data sources may be used under this
+methodology, where conservative, even where data accuracy may be less stringent than required
+by this methodology.
+
+6.2
+
+Re-assessing the Baseline Scenario
+The project baseline must be revised at the following frequencies:
+
+
+For planned deforestation projects, the baseline must be revised every 10 years for
+ongoing planned deforestation.
+
+
+
+For unplanned deforestation, the project baseline must be revised every 10 years from
+the project start date.
+
+
+
+For degradation, the baseline must be revised every 10 years.
+
+
+
+For WRC areas, the project must, for the duration of the project, reassess the baseline
+every 10 years and have this validated at the same time as the subsequent verification.
+
+REDD+MF - 28
+
+VM0007, Version 1.6
+Sectoral Scope 14
+The date of the next scheduled revision must be specified. The starting point for the baseline
+revision of the project will be the forest cover projected to exist at the end of the baseline period.
+Projections for each baseline revision will be subject to independent verification.
+Reassessments must capture changes in the drivers and/or behavior of agents that cause the
+change in land use and/or land management practices and changes in carbon stocks. The new
+baseline scenario must be incorporated into revised estimates of baseline emissions. This
+baseline reassessment must include the evaluation of the validity of proxies for GHG emissions.
+For REDD and WRC project activities, ex-ante baseline projections beyond a 10-year period are
+not required. For this assessment, the historic reference period is extended to include the original
+reference period and all subsequent monitoring periods up to the beginning of the current
+monitoring period.
+
+7
+
+ADDITIONALITY
+
+7.1
+
+Project method – all project activities other than tidal wetland conservation and
+restoration
+The latest version of the tool referenced in T-ADD must be used to identify credible alternative
+land use scenarios and evaluate both the alternatives and the proposed project scenarios (see
+Section 6.1) and to demonstrate the additionality of the project.
+Default factors and standards used to ascertain GHG emission data and any supporting data for
+demonstrating additionality must be publicly available from a recognized, credible source, such as
+IPCC 2006 Guidelines for National GHG Inventories or the IPCC 2003 Good Practice Guidelines
+for Land Use, Land-Use Change and Forestry.
+
+
+7.2
+
+CDM tool AR-Tool14 Estimation of carbon stocks and change in carbon stocks of trees
+and shrubs in A/R CDM project activities
+
+Activity Method – all tidal wetlands conservation and restoration project activities
+This methodology uses an activity method for the demonstration of additionality of tidal wetlands
+conservation and restoration project activities. For such project activities, use Module ADD-AM
+(Demonstration of Additionality of Tidal Wetland Restoration and Conservation Project Activities).
+
+8
+
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS
+
+8.1
+
+Baseline Emissions
+8.1.1
+
+General
+
+Each activity type included in the project must estimate an individual baseline following the
+provisions and specific modules mentioned below. Combined activities (i.e., ARR or REDD with a
+WRC component) must develop a unique baseline considering peat or tidal wetland soils as the
+REDD+MF - 29
+
+VM0007, Version 1.6
+Sectoral Scope 14
+SOC pool and incorporating the resulting emission estimates to the calculation of emissions and
+carbon stock changes of the ARR and/or REDD activities.
+The same procedure must be followed ex ante and ex post. For parameters that will be monitored
+subsequent to project initiation, guidance is given in the parameter tables of the relevant modules
+for the values that must be used in ex-ante calculations.
+8.1.2
+
+REDD
+
+The baseline of the REDD project activity is estimated ex ante. It can be monitored in a reference
+area (unplanned deforestation) or proxy area (planned deforestation) for the purpose of
+periodically adjusting the baseline. Ex-ante baseline estimations are therefore used in both the
+ex-ante and ex-post estimation of net carbon stock changes and greenhouse gas emission
+reductions.
+Methods for estimating net baseline carbon stock changes and greenhouse gas emissions are
+provided in the following modules:
+
+
+For planned deforestation/degradation: Module BL-PL
+
+
+
+For unplanned deforestation: Module BL-UP
+
+
+
+For forest degradation from extraction of wood for fuel: Module BL-DFW
+
+8.1.3
+
+ARR
+
+The net GHG removals in the baseline scenario must be estimated using Module BL-ARR.
+8.1.4
+
+WRC
+
+Baseline net emissions from the SOC pool must be estimated using Module BL-PEAT or BL-TW,
+whichever is relevant (see Table 3). For peat strata within tidal wetlands, Module BL-PEAT must
+be used.
+Socio-economic processes causing the degradation of wetlands are similar to those causing
+deforestation or forest degradation. Therefore, for stand-alone CIW project activities (e.g.,
+conservation of salt marshes without a tree biomass component), similar methods for baseline
+determination can be used as for REDD project activities. Stand-alone CIW as well as CIWREDD project activities use Module BL-TW or BL-PEAT (whichever is relevant) in conjunction
+with Module BL-UP or BL-PL (whichever is relevant).
+Stand-alone RWE and RWE-ARR project activities must use Module BL-PEAT or BL-TW
+(whichever is relevant) for baseline net GHG emissions from the SOC pool. In case fossil fuel
+combustion is accounted for, Module E-FFC must be used as well. RWE-ARR project activities
+must also use Module BL-ARR for the accounting of biomass and biomass burning (if relevant).
+RWE-REDD project activities must use Module BL-PEAT or BL-TW for the estimation of
+baseline net GHG emissions from the SOC pool, and Module BL-UP or BL-PL for all other pools
+and emissions.
+REDD+MF - 30
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+8.2
+
+Project Emissions
+8.2.1
+
+General
+
+The same procedure must be followed ex ante and ex post. For parameters that will be monitored
+subsequent to project initiation, guidance is given in the parameter tables of the relevant modules
+for the values that must be used in ex-ante calculations.
+8.2.2
+
+REDD
+
+Methods for estimating net carbon stock changes and GHG emissions in the project scenario are
+provided in Module M-REDD.
+8.2.3
+
+ARR
+
+The net GHG removals in the project scenario must be estimated using Module M-ARR.
+8.2.4
+
+WRC
+
+Net GHG emissions from the SOC pool in the project scenario must be estimated using Module
+M-PEAT or M-TW (whichever is relevant). For peat strata within tidal wetlands, Module M-PEAT
+must be used.
+Stand-alone CIW and CIW-REDD project activities must use Module M-TW or M-PEAT
+(whichever is relevant) for the estimation of project net emissions from the SOC pool, and
+Module M-REDD for all other pools and emissions (where relevant).
+Stand-alone RWE and RWE-ARR project activities must use Module M-PEAT or M-TW
+(whichever is relevant) for project net GHG emissions from the SOC pool. Where fossil fuel
+combustion is accounted for, Module E-FFC must be used as well. RWE-ARR project activities
+must also use Module M-ARR for the accounting of biomass and biomass burning (where
+relevant). RWE-REDD project activities must use Module M-PEAT or M-TW (whichever is
+relevant) for the estimation of project net emissions from the SOC pool, and Module M-REDD for
+all other pools and emissions.
+
+8.3
+
+Leakage
+Leakage must be considered for all activities, using the following leakage modules:
+
+
+For planned deforestation/degradation and planned wetland degradation: Module LKASP
+
+
+
+For unplanned deforestation and unplanned wetland degradation: Module LK-ASU
+
+
+
+For fuel-wood/charcoal collection: Module LK-DFW
+
+
+
+For pre-project agricultural or aquacultural activities: Module LK-ARR
+
+
+
+For WRC project activities: Module LK-ECO
+
+REDD+MF - 31
+
+VM0007, Version 1.6
+Sectoral Scope 14
+For stand-alone CIW project activities, similar methods for leakage determination can be used
+as for REDD project activities, and Module LK-ASU, LK-ASP or LK-ME (whichever is relevant)
+must be used.
+Combined RWE-ARR projects must use Module LK-ASP.
+The significance of leakage and the significance of carbon pools may be determined using T-SIG.
+Where applicable, leakage due to market effects must be considered using Module LK-ME.
+Market effects must be considered where the project leads to a decrease in the production of
+timber, fuelwood, or charcoal.
+Where, pre-project, unsustainable fuelwood collection is occurring within the project boundary,
+Modules BL-DFW and LK-DFW must be used to determine potential leakage.
+Where leakage prevention activities include tree planting, aquacultural intensification, agricultural
+intensification, fertilization, fodder production, other measures to enhance cropland and/or
+grazing land areas, leakage management zones or a combination of these, then any significant
+increase in GHG emissions associated with these activities must be accounted for, unless
+deemed de minimis, as determined using T-SIG.
+Leakage prevention activities may lead to the increase in combustion of fossil fuels; however, any
+increase in emissions is considered insignificant.
+Where leakage prevention leads to a significant increase in the use of fertilizers, Module E-NA
+must be used. T-SIG can be used to determine significance.
+As per the applicability conditions, leakage prevention may not include the flooding of agricultural
+lands (e.g., for new rice paddies) nor the creation of livestock feedlots and/or manure lagoons.
+Leakage prevention may also not include the drainage of peatland.
+The list of leakage sources with appropriate justification must be presented.
+Positive leakage may not be accounted for.
+
+8.4
+
+Summary of GHG Emission Reduction and/or Removals
+8.4.1
+
+General
+
+The total net greenhouse gas emissions reductions of the project are calculated as:
+NERREDD+ = NERREDD + NGRARR + NERWRC
+
+(1)
+
+Where:
+NERREDD+
+
+Total net GHG emission reductions of the REDD+ project activity up to year t*
+(t CO2e)
+REDD+MF - 32
+
+VM0007, Version 1.6
+Sectoral Scope 14
+NERREDD
+
+Total net GHG emission reductions of the REDD project activity up to year t*
+(t CO2e)
+
+NGRARR
+
+Total net GHG removals of the ARR project activity up to year t* (t CO2e)
+
+NERWRC
+
+Total net GHG emission reductions of the WRC project activity up to year t*
+(t CO2e)
+
+The project proponent must present conservative ex-ante estimations of the total net GHG
+emissions reductions of the project activity.
+For ex-ante estimations of specific parameters, refer to the parameter tables in the appropriate
+modules.
+8.4.2
+
+REDD
+
+The total net greenhouse gas emissions reductions of the REDD project activity are calculated as
+follows:
+NERREDD = CBSL-REDD - CWPS-REDD - CLK-REDD
+
+(2)
+
+Where:
+NERREDD
+
+Total net GHG emission reductions of the REDD project activity up to year t*
+(t CO2e)
+
+CBSL-REDD
+
+Net GHG emissions in the REDD baseline scenario up to year t* (t CO2e)
+
+CWPS-REDD
+
+Net GHG emissions in the REDD project scenario up to year t* – from Module MREDD (t CO2e)
+
+CLK-REDD
+
+Net GHG emissions due to leakage from the REDD project activity up to year t*
+(t CO2e)
+(3)
+
+CBSL ,REDD  CBSL , planned  CBSL ,unplanned  CBSL ,deg rad FW / C
+
+Where:
+CBSL-REDD
+
+Net GHG emissions in the REDD baseline scenario up to year t* (t CO2e)
+
+CBSL,planned
+
+Net GHG emissions in the baseline scenario from planned deforestation up to
+year t* – from Module BL-PL (t CO2e)
+
+CBSL,unplanned
+
+Net GHG emissions in the baseline scenario from unplanned deforestation up to
+year t* – from Module BL-UP (t CO2e)
+
+CBSL,degrad-FW/C Net GHG emissions in the baseline scenario from degradation caused by
+fuelwood collection and charcoal making up to year t* – from Module BL-DFW (t
+CO2e)
+CLK REDD  CLK AS, planned  CLK AS,unplanned  CLK AS,deg rad FW / C  CLK ME
+
+(4)
+
+REDD+MF - 33
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Where:
+CLK-REDD
+
+Net GHG emissions due to leakage from the REDD project activity up to year t*
+(t CO2e)
+
+∆CLK-AS,planned
+
+Net GHG emissions due to activity shifting leakage for projects preventing
+planned deforestation up to year t* – from Module LK-ASP (t CO2e)
+
+∆CLK-AS,unplanned
+
+Net GHG emissions due to activity shifting leakage for projects preventing
+unplanned deforestation up to year t* – from Module LK-ASU (t CO2e)
+
+∆CLK-ME
+
+Net GHG emissions due to market-effects leakage up to year t* – from Module
+LK-ME (t CO2e)
+
+∆CLK-AS,degrad-FW/C Net GHG emissions due to activity shifting leakage for degradation caused by
+extraction of wood for fuel up to year t* – from Module LK-DFW (t CO2e)
+8.4.3
+
+ARR
+
+The total net greenhouse gas removals of the ARR project activity are calculated as follows:
+NGRARR = ∆CWPS-ARR - ∆CBSL-ARR - ∆CLK-ARR
+
+(5)
+
+Where:
+NGRARR
+
+Total net GHG removals of the ARR project activity up to year t* (t CO2e)
+
+CBSL-ARR
+
+Net GHG removals in the ARR baseline scenario up to year t* – from Module BLARR (t CO2e)
+
+CWPS-ARR
+
+Net GHG removals in the ARR project scenario up to year t* – from Module MARR (t CO2e)
+
+CLK-ARR
+
+Net GHG emissions due to leakage from the ARR project activity up to year t*
+(t CO2e)
+
+Where ARR projects include harvesting, the loss of carbon due to harvesting must be included in
+the quantification of project emissions. The maximum number of GHG credits available to
+projects does not exceed the long-term average GHG benefit, which is calculated using the
+procedure in Module M-ARR.
+8.4.4
+
+WRC
+
+The total net GHG emission reduction of the WRC project activity is calculated as follows:
+NERWRC = GHGBSL-WRC – GHGWPS-WRC – GHGLK-WRC
+
+(6)
+
+Where:
+NERWRC
+
+Total net GHG emission reductions in the WRC project up to year t* (t CO2e)
+
+GHGBSL-WRC
+
+Net GHG emissions in the WRC baseline scenario up to year t* (t CO2e)
+
+GHGWPS-WRC
+
+Net GHG emissions in the WRC project scenario up to year t* (t CO2e)
+
+REDD+MF - 34
+
+VM0007, Version 1.6
+Sectoral Scope 14
+GHGLK-WRC
+
+Net GHG emissions due to leakage from the WRC project activity up to year
+t* (t CO2e)
+
+Baseline scenario
+For CIW-REDD, RWE-REDD or stand-alone CIW project activities:
+GHGBSL-WRC = GHGBSL-PEAT + GHGBSL-TW
+
+(7)
+
+Where:
+GHGBSL-WRC
+
+Net GHG emissions in the WRC baseline scenario up to year t* (t CO2e)
+
+GHGBSL-PEAT
+
+Net GHG emissions in the WRC baseline scenario on peatland up to year t*
+(t CO2e)
+
+GHGBSL-TW
+
+Net GHG emissions in the WRC baseline scenario on tidal wetland up to
+year t* (t CO2e)
+
+For CIW-REDD, RWE-REDD or stand-alone CIW project activities on peatland (including organic
+soils in tidal wetlands):
+GHGBSL-PEAT = GHGBSL-PEAT,planned + GHGBLS-PEAT,unplanned
+
+(8)
+
+For CIW-REDD, RWE-REDD or stand-alone CIW project activities on tidal wetland (excluding
+organic soils):
+GHGBSL-TW = GHGBSL-TW,planned + GHGBLS-TW,unplanned
+
+(9)
+
+Where:
+GHGBSL-PEAT
+
+Net GHG emissions in the WRC baseline scenario on peatland up to year t*
+(t CO2e)
+
+GHGBSL-PEAT,planned
+
+Net GHG emissions in the baseline scenario from planned peatland
+degradation up to year t* – from Module BL-PL (t CO2e)
+
+GHGBLS-PEAT,unplanned Net GHG emissions in the baseline scenario from unplanned peatland
+degradation up to year t* – from Module BL-UP (t CO2e)
+GHGBSL-TW
+GHGBSL-TW,planned
+GHGBSL-TW,unplanned
+
+Net GHG emissions in the WRC baseline scenario on tidal wetland up to
+year t* (t CO2e)
+Net GHG emissions in the baseline scenario from planned tidal wetland
+degradation up to year t* – from Module BL-UP; t CO2e
+Net GHG emissions in the baseline scenario from unplanned tidal wetland
+degradation up to year t* – from Module BL-UP; t CO2e
+
+Note that Modules BL-UP and BL-PL internally refer to Modules BL-PEAT and BL-TW (whichever
+is relevant) for the estimation of net GHG emissions from the SOC pool. Modules BL-UP-and BLPL provide procedures for the estimation of biomass burning and fuel burning.
+For RWE-ARR or stand-alone RWE project activities, any significant baseline fossil fuel
+combustion may be added to Equation 7, as follows:
+REDD+MF - 35
+
+VM0007, Version 1.6
+Sectoral Scope 14
+GHGBSL-WRC = GHGBSL-PEAT + GHGBSL-TW + GHGBSL-fuel
+
+(10)
+
+Where:
+GHGBSL-WRC
+
+Net GHG emissions in the WRC baseline scenario up to year t* (t CO2e)
+
+GHGBSL-PEAT
+
+Net GHG emissions in the WRC baseline scenario on peatland up to year t* (t
+CO2e)
+
+GHGBSL-TW
+
+Net GHG emissions in the WRC baseline scenario on tidal wetland up to year t*
+(t CO2e)
+
+GHGBSL-fuel
+
+Net CO2e emissions from fossil fuel use in the baseline scenario up to year t*
+(from Module BL-TW) (t CO2e)
+
+i
+
+1, 2, 3, … M strata
+
+t
+
+1, 2, 3, …t* years elapsed since the projected start of the WRC project activity
+
+For RWE-ARR or stand-alone RWE project activities on peatland (including organic soils in tidal
+wetlands) GHGBSL-PEAT is taken from Module BL-PEAT. For the biomass component in RWE-ARR
+project activities, CBSL-ARR is taken from Module BL-ARR, see Section 8.4.3.
+For RWE-ARR or stand-alone RWE on tidal wetland (excluding organic soils) GHGBSL-TW is taken
+from Module BL-TW. For the biomass component in RWE-ARR project activities, CBSL-ARR is
+taken from Module BL-ARR, see Section 8.4.3.
+Project scenario
+GHGWPS-WRC = GHGWPS-PEAT + GHGWPS-TW
+
+(11)
+
+Where:
+GHGWPS-WRC
+
+Net GHG emissions in the WRC project scenario up to year t* (t CO2e)
+
+GHGWPS-PEAT
+
+Net GHG emissions in the WRC project scenario on peatland up to year t* (t
+CO2e)
+
+GHGWPS-TW
+
+Net GHG emissions in the WRC project scenario on tidal wetland up to year
+t* (t CO2e)
+
+For CIW-REDD, stand-alone CIW or RWE-REDD project activities on peatland (including organic
+soils in tidal wetlands), use Modules M-REDD and M-PEAT.
+For CIW-REDD, stand-alone CIW or RWE-REDD project activities on tidal wetland (excluding
+organic soils), use Modules M-REDD and M-TW.
+For RWE-ARR and stand-alone RWE project activities, use Modules M-PEAT and M-TW
+(whichever is relevant) for the soil component, and (for RWE-ARR) Module M-ARR for the
+vegetation component.
+GHGLK-WRC = GHGLK-WRC-AS,planned + GHGLK-WRC-AS,unplanned + GHGLK-ECO
+
+(12)
+
+REDD+MF - 36
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Where:
+GHGLK-WRC
+
+Net GHG emissions due to leakage from the WRC project activity up to
+year t* (t CO2e)
+
+GHGLK-WRC-AS,unplanned
+
+Net GHG emissions due to wetland degradation from unplanned
+deforestation displaced from the project area up to year t* – from Module
+LK-ASU (t CO2e)
+
+GHGLK-WRC-AS,planned
+
+Net GHG emissions due to wetland degradation from planned
+deforestation displaced from the project area up to year t* – from Module
+LK-ASU (t CO2e)
+
+GHGLK-ECO
+
+Net GHG emissions due to ecological leakage from the WRC project
+activity up to year t* * – from Module LK-ECO (t CO2e)
+
+8.4.5
+
+Calculation of AFOLU Pooled Buffer Account Contribution
+
+The number of credits to be held in the AFOLU pooled buffer account is determined as a
+percentage of the total carbon stock benefits. For REDD project activities, this is equal to the net
+emissions in the baseline minus emissions from fossil fuel use and fertilizer use minus the net
+emissions in the project case minus emissions from fossil fuels and fertilizer use. Leakage
+emissions do not factor into the buffer calculations.
+For REDD projects, the calculation of the net change in carbon stocks applied in this
+methodology includes an adjustment for emissions from fossil fuel combustion and direct N2O
+emissions and excludes emissions from biomass burning. Besides other GHG fluxes, biomass
+burning involves a carbon stock change. The procedure, therefore, provides a conservative
+(larger) estimate of the buffer withholding.
+For WRC project activities, the proxy for the net change in carbon stocks applied in this
+methodology is NERWRC. As this proxy includes all net GHG emissions reductions, it provides a
+conservative (larger) estimate of the buffer.
+Since GHG emission reductions from ARR are unlikely to differ greatly from the net change in
+carbon stocks, the proxy for the net change in carbon stocks applied in this methodology is
+NGRARR. As this proxy includes all GHG emissions reductions and removals, it provides a
+conservative (larger) estimate of the buffer withholding.
+Buffer Total  Buffer Planned  Buffer Unplanned  Buffer Degrad FW / C  Buffer WRC  Buffer ARR
+
+(13)
+
+
+ 
+t*
+M
+
+ 
+ CBSL,Planned    EFC,i,t  N2Odirect ,i ,t   
+ 
+t 1 i1
+
+
+BSL Planned
+  Buffer %
+BufferPlanned  
+
+
+
+
+t*
+M
+
+ C
+
+
+EFC,i ,t  N2Odirect,i ,t 
+ P,Planned  
+
+
+
+
+t 1 i 1
+
+P Planned
+
+
+
+(14)
+
+
+
+
+
+
+
+
+
+REDD+MF - 37
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+
+ 
+t*
+M
+
+ 
+CBSL,Unplanned 
+EFC,i,t  N 2Odirect,i,t  
+
+
+
+t 1
+i 1
+ 
+
+BSL Unplanned
+
+
+Buffer Unplanned  
+ Buffer %
+ 
+
+t
+*
+M
+ 
+
+ 
+
+
+E
+
+N
+O
+C
+P,Unplanned
+FC,i,t
+2
+direct,i,t
+
+
+t 1
+i 1
+ 
+
+
+P Unplanned
+ 
+
+
+ 
+
+ 
+
+
+
+(15)
+
+
+
+
+ 
+
+t*
+M
+ 
+  C BSL , Degrad  FW / C 
+
+E FC ,i ,t  N 2 Odirect ,i ,t   
+
+ 
+t 1
+i 1
+ 
+ 
+BSL Degrad  FW / C
+
+  Buffer %
+Buffer Degrad  FW / C  
+
+
+
+t*
+M
+
+
+E FC ,i,t  N 2 Odirect ,i,t  
+  C P , Degrad  FW / C 
+
+ 
+
+t 1
+i 1
+
+
+P
+Degrad
+FW
+/
+C
+
+
+
+
+
+
+
+
+
+
+(16)
+
+
+
+BufferARR = NGRARR × Buffer%
+
+(17)
+
+BufferWRC = NERWRC × Buffer%
+
+(18)
+
+Where:
+BufferTotal
+
+Total permanence risk buffer withholding (t CO2e)
+
+BufferPlanned
+
+Buffer withholding for avoiding planned deforestation project activities (t CO2e)
+
+BufferUnplanned
+
+Buffer withholding for avoiding unplanned deforestation project activities
+(t CO2e)
+
+BufferDegrad-FW/C Buffer withholding for avoiding degradation through extraction of fuelwood project
+areas (t CO2e)
+BufferARR
+
+Buffer withholding for ARR project activities (t CO2e)
+
+BufferWRC
+
+Buffer withholding for WRC project activities (t CO2e)
+
+ΔCBSL,Planned
+
+Net GHG emissions in the baseline from planned deforestation (t CO2e)
+
+ΔCBSL,Unplanned
+
+Net GHG emissions in the baseline from unplanned deforestation (t CO2e)
+
+ΔCBSL,Degrad-FW/C Net GHG emissions in the baseline from degradation caused by fuelwood
+collection and charcoal making (t CO2e)
+CP
+
+Net GHG emissions within the project area in the project scenario23 (t CO2e)
+
+EFC,i,t
+
+Emission from fossil fuel combustion in stratum i in year t (t CO2e)
+
+N2Odirect-N,i,t
+
+Direct N2O emission as a result of nitrogen application on the alternative land use
+within the project boundary in stratum i in year t (t CO2e)
+
+23 The project emissions must be divided between the emissions arising from the respective project areas for planned
+
+and unplanned deforestation and degradation through fuelwood extraction/charcoal production.
+
+REDD+MF - 38
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Buffer%
+
+Buffer withholding percentage24 (percent)
+
+NERWRC
+
+Total net GHG emission reductions in the WRC project up to year t* (t CO2e)
+
+NGRARR
+
+Total net GHG removals of the ARR project activity up to year t* (t CO2e)
+
+i
+
+1, 2, 3, …M strata (unitless)
+
+t
+
+1, 2, 3, …t* time elapsed since the start of the REDD+ project activity (years)
+
+8.4.6
+
+Uncertainty Analysis
+
+Project must use Module X-UNC to combine uncertainty information and conservative estimates
+and produce an overall uncertainty estimate of the total net GHG emission reductions. The
+estimated cumulative net anthropogenic GHG emission reductions must be adjusted at each
+point in time to account for uncertainty as indicated in Module X-UNC25. Module X-UNC
+calculates an adjusted value for NERREDD+ for any point in time. This adjusted Adjusted_NERREDD+
+must be the basis of calculations at each point in time in Equation 19.
+8.4.7
+
+Calculation of Verified Carbon Units
+
+To estimate the number of Verified Carbon Units (VCUs) for the monitoring period T = t2-t1, this
+methodology uses the following equation:
+
+
+
+
+
+VCUt  Adjusted _ NERREDD,t 2  Adjusted _ NERREDD,t1  BufferTotal
+
+(19)
+
+Where:
+VCUt
+
+Number of Verified Carbon Units at year t = t2 - t1 (VCU)
+
+Adjusted_NERREDD+,t2
+
+Total net GHG emission reductions of the REDD+ project activity up to
+year t2 and adjusted to account for uncertainty (t CO2e)
+
+Adjusted_NERREDD+,t1
+
+Total net GHG emission reductions of the REDD+ project activity up to
+year t1 and adjusted to account for uncertainty (t CO2e)
+
+24 Buffer withholding percentages are based on the project’s overall risk classification, the percentage of carbon
+
+credits generated by the approved project activity that must be deposited into the AFOLU pooled buffer account to
+cover non-permanence related project risks. Buffer withholding percentage must be calculated using T-BAR.
+Different percentages will likely be calculated for each of the baseline types as relevant.
+25 The allowable uncertainty under this methodology is +/- 15% of NER
+REDD+ at the 95% confidence level. Where this
+precision level is met then no deduction should result for uncertainty. Where uncertainty exceeds 15% of NERREDD+
+at the 95% confidence level then the deduction must be equal to the amount that the uncertainty exceeds the
+allowable level.
+
+REDD+MF - 39
+
+VM0007, Version 1.6
+Sectoral Scope 14
+BufferTotal
+
+Total permanence risk buffer withholding (t CO2e)
+
+The adjusted value for NERREDD+ to account for uncertainty must be calculated as:
+Adjusted_NERREDD+ = NGRARR + (NERREDD + NERWRC) × (100% - NER(REDD+ERROR) + 15%)
+
+(20)
+
+Where:
+Adjusted_NERREDD+
+
+Total net GHG emission reductions of the REDD+ project activities up to
+year t* and adjusted to account for uncertainty (t CO2e)
+
+NERREDD
+
+Total net GHG emission reductions of the REDD project activity up to
+year t* (t CO2e)
+
+NERWRC
+
+Total net GHG emission reductions of the WRC project activity up to year
+t* (t CO2e)
+
+NERREDD+_ERROR
+
+Cumulative uncertainty for the REDD+ (REDD and WRC) project
+activities up to year t* (percent)
+
+NGRARR
+
+Total net GHG removals of the ARR project activity up to year t* (t CO2e)
+
+For details see Module X-UNC.
+
+9
+
+MONITORING
+
+9.1
+
+Data and Parameters Available at Validation
+Data / Parameter
+
+∆CBSL,degrad-FW/C
+
+Data unit
+
+t CO2e
+
+Description
+
+Net greenhouse gas emissions in the baseline from degradation
+caused by fuelwood collection and charcoal making
+
+Equations
+
+3
+
+Source of data
+
+Module BL-DFW
+
+Value applied
+
+N/A
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module BL-DFW
+
+Purpose of Data
+
+Calculation of baseline emissions
+
+Comments
+
+N/A
+
+REDD+MF - 40
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Data / Parameter
+
+∆CBSL,planned
+
+Data unit
+
+t CO2e
+
+Description
+
+Net greenhouse gas emissions in the baseline from planned
+deforestation
+
+Equations
+
+3, 13
+
+Source of data
+
+Module BL-PL
+
+Value applied
+
+N/A
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module BL-PL
+
+Purpose of Data
+
+Calculation of baseline emissions
+
+Comments
+
+N/A
+
+Data / Parameter
+
+∆CBSL,unplanned
+
+Data unit
+
+t CO2e
+
+Description
+
+Net greenhouse gas emissions in the baseline from unplanned
+deforestation
+
+Equations
+
+3, 14
+
+Source of data
+
+Module BL-UP
+
+Value applied
+
+N/A
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module BL-UP
+
+Purpose of Data
+
+Calculation of baseline emissions
+
+Comments
+
+N/A
+
+Data / Parameter
+
+∆CBSL-ARR
+
+Data unit
+
+t CO2e
+
+Description
+
+Net GHG removals in the ARR baseline scenario up to year t*
+
+Equations
+
+5
+
+Source of data
+
+Module BL-ARR
+
+Value applied
+
+N/A
+
+REDD+MF - 41
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module BL-ARR
+
+Purpose of Data
+
+Calculation of baseline emissions
+
+Comments
+
+N/A
+
+Data / Parameter
+
+GHGBSL-WRC
+
+Data unit
+
+t CO2e
+
+Description
+
+Net GHG emissions in the WRC baseline scenario up to year t*
+
+Equations
+
+6, 7
+
+Source of data
+
+Module BL-PEAT
+
+Value applied
+
+N/A
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module BL-PEAT
+
+Purpose of Data
+
+Calculation of baseline emissions
+
+Comments
+
+N/A
+
+Data / Parameter
+
+EFC,i,t
+
+Data unit
+
+t CO2e
+
+Description
+
+Emissions from fossil fuel combustion in stratum i in year t
+
+Equations
+
+13 - 15
+
+Source of data
+
+Module E-FFC
+
+Value applied
+
+n/a
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module E-FFC
+
+Purpose of Data
+
+Calculation of project emissions
+
+Comments
+
+REDD+MF - 42
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+9.2
+
+Data and Parameters Monitored
+Data / Parameter:
+
+CWPS-REDD
+
+Data unit:
+
+t CO2e
+
+Description:
+
+Net GHG emissions in the REDD project scenario up to year t*
+
+Equations
+
+2
+
+Source of data:
+
+Module M-REDD
+
+Description of
+measurement methods
+and procedures to be
+applied:
+
+See Module M-REDD
+
+Frequency of
+monitoring/recording:
+
+See Module M-REDD
+
+QA/QC procedures to be
+applied:
+
+See Module M-REDD
+
+Purpose of data:
+
+Calculation of project emissions
+
+Calculation method:
+
+See Module M-REDD
+
+Comments:
+
+Data / Parameter
+
+∆CLK-AS,degrad-FW/C
+
+Data unit
+
+t CO2e
+
+Description
+
+Net greenhouse gas emissions due to activity-shifting leakage for
+degradation caused by extraction of wood for fuel
+
+Equations
+
+4
+
+Source of data
+
+Module LK-DFW
+
+Value applied
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module LK-DFW
+
+Purpose of Data
+
+Calculation of leakage
+
+Calculation method:
+
+See Module LK-DFW
+
+Comments
+
+REDD+MF - 43
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Data / Parameter
+
+∆CLK-AS,planned
+
+Data unit
+
+t CO2e
+
+Description
+
+Net greenhouse gas emissions due to activity shifting leakage for
+projects preventing planned deforestation
+
+Equations
+
+4
+
+Source of data
+
+Module LK-ASP
+
+Value applied
+
+n/a
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module LK-ASP
+
+Purpose of Data
+
+Calculation of leakage
+
+Calculation method:
+
+See Module LK-ASP
+
+Comments
+
+Data / Parameter
+
+∆CLK-AS,unplanned
+
+Data unit
+
+t CO2e
+
+Description
+
+Net greenhouse gas emissions due to activity shifting for projects
+preventing unplanned deforestation
+
+Equations
+
+4
+
+Source of data
+
+Module LK-ASU
+
+Value applied
+
+n/a
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module LK-ASU
+
+Purpose of Data
+
+Calculation of leakage
+
+Calculation method:
+
+See Module LK-ASU
+
+Comments
+
+Data / Parameter
+
+∆CLK-ME
+
+Data unit
+
+t CO2e
+
+Description
+
+Net greenhouse gas emissions due to market-effects leakage
+
+Equations
+
+4
+
+REDD+MF - 44
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Source of data
+
+Module LK-ME
+
+Value applied
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module LK-ME
+
+Purpose of Data
+
+Calculation of leakage
+
+Calculation method:
+
+See Module LK-ME
+
+Comments
+
+Data / Parameter:
+
+CWPS-ARR
+
+Data unit:
+
+t CO2e
+
+Description:
+
+Net GHG emissions in the ARR project scenario up to year t*
+
+Equations
+
+5
+
+Source of data:
+
+Module M-ARR
+
+Description of
+measurement methods
+and procedures to be
+applied:
+
+See Module M-ARR
+
+Frequency of
+monitoring/recording:
+
+See Module M-ARR
+
+QA/QC procedures to be
+applied:
+
+See Module M-ARR
+
+Purpose of data:
+
+Calculation of project emissions
+
+Calculation method:
+
+See Module M-ARR
+
+Comments:
+
+Data / Parameter:
+
+CLK-ARR
+
+Data unit:
+
+t CO2e
+
+Description:
+
+Net GHG emissions due to leakage from the ARR project activity
+up to year t*
+
+Equations
+
+5
+
+Source of data:
+
+Module LK-ARR
+
+Description of
+measurement methods
+
+See Module LK-ARR
+
+REDD+MF - 45
+
+VM0007, Version 1.6
+Sectoral Scope 14
+and procedures to be
+applied:
+Frequency of
+monitoring/recording:
+
+See Module LK-ARR
+
+QA/QC procedures to be
+applied:
+
+See Module LK-ARR
+
+Purpose of data:
+
+Calculation of leakage
+
+Calculation method:
+
+See Module LK-ARR
+
+Comments:
+
+Data / Parameter:
+
+GHGWPS-WRC
+
+Data unit:
+
+t CO2e
+
+Description:
+
+Net GHG emissions in the WRC project scenario up to year t*
+
+Equations
+
+6
+
+Source of data:
+
+Module M-PEAT
+
+Description of
+measurement methods
+and procedures to be
+applied:
+
+See Module M-PEAT
+
+Frequency of
+monitoring/recording:
+
+See Module M-PEAT
+
+QA/QC procedures to be
+applied:
+
+See Module M-PEAT
+
+Purpose of data:
+
+Calculation of project emissions
+
+Calculation method:
+
+See Module M-PEAT
+
+Comments:
+
+See Module M-PEAT
+
+Data / Parameter
+
+GHGLK-ECO
+
+Data unit
+
+t CO2e
+
+Description
+
+Net GHG emissions due to ecological leakage from the WRC
+project activity up to year t
+
+Equations
+
+6
+
+Source of data
+
+Module LK-ECO
+
+Value applied
+
+n/a
+
+REDD+MF - 46
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module LK-ECO
+
+Purpose of Data
+
+Calculation of leakage
+
+Calculation method:
+
+See Module LK-ECO
+
+Comments
+
+Data / Parameter
+
+EFC,i,t
+
+Data unit
+
+t CO2e
+
+Description
+
+Emission from fossil fuel combustion in stratum i in year t
+
+Equations
+
+13 - 15
+
+Source of data
+
+Module E-FFC
+
+Value applied
+
+n/a
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module E-FFC
+
+Purpose of Data
+
+Calculation of project emissions
+
+Calculation method:
+
+See Module E-FFC
+
+Comments
+
+Data / Parameter
+
+N2Odirect-N,i,t
+
+Data unit
+
+t CO2e
+
+Description
+
+Direct N2O emission as a result of nitrogen application on the
+alternative land use within the project boundary in stratum i in
+year t
+
+Equations
+
+13 - 15
+
+Source of data
+
+Module E-NA
+
+Value applied
+
+n/a
+
+Justification of choice of
+data or description of
+measurement methods
+and procedures applied
+
+See Module E-NA
+
+Purpose of Data
+
+Calculation of project emissions
+REDD+MF - 47
+
+VM0007, Version 1.6
+Sectoral Scope 14
+Calculation method:
+
+See Module E-NA
+
+Comments
+
+9.3
+
+Description of the Monitoring Plan
+9.3.1
+
+Development of Monitoring Plan
+
+General
+The monitoring plan must address the following monitoring tasks, which must be included in the
+monitoring plan:
+
+
+Monitoring of project implementation
+
+
+
+Monitoring of actual carbon stock changes and greenhouse gas emissions
+
+
+
+Monitoring of leakage carbon stock changes and greenhouse gas emissions
+
+
+
+Estimation of ex post net carbon stock changes and greenhouse gas emissions
+
+For each of these tasks, the monitoring plan must include the following information:
+a. Technical description of the monitoring task
+b. Data to be collected (the list of data and parameters to be collected must be given in PD)
+c.
+
+Overview of data collection procedures
+
+d. Quality control and quality assurance procedure
+e. Data archiving
+f.
+
+Organisation and responsibilities of the parties involved in all of the above
+
+Uncertainty and Quality Management
+Quality management procedures are required for the management of data and information,
+including the assessment of uncertainty, relevant to the project and baseline scenarios. As far as
+is practical, uncertainties related to the quantification of GHG emission reductions and removals
+by sinks should be reduced.
+To help reduce uncertainties in the accounting of emissions and removals, this methodology
+uses, whenever possible, the proven methods from the latest available IPCC guidance
+documents (GPG-LULUCF and Reporting Guidelines) and peer-reviewed literature. Despite this,
+potential uncertainties still arise from the choice of parameters to be used. Uncertainties arising
+from input parameters would result in uncertainties in the estimation of both baseline net GHG
+emissions and project net GHG emissions – especially when global default factors are used. The
+project must identify key parameters that would significantly influence the accuracy of estimates.
+Local values that are specific to the project circumstances must then be obtained for these key
+parameters, whenever possible. These values should be based on:
+
+REDD+MF - 48
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+
+Data from well-referenced peer-reviewed literature or other well-established published
+sources26; or
+
+
+
+National inventory data or default factors from IPCC literature that has, whenever
+possible and necessary, been checked for consistency against available local data
+specific to the project circumstances; or
+
+
+
+In the absence of the above sources of information, expert opinion may be used to assist
+with data selection. Experts will often provide a range of data, as well as a most probable
+value for the data. The rationale for selecting a particular data value must be briefly
+noted.
+
+In choosing key parameters, or making important assumptions based on information that is not
+specific to the project circumstances, such as in use of default factors, the project must select
+values that will lead to an accurate estimation of net GHG emission reductions, taking into
+account uncertainties.
+If uncertainty is significant, the project must choose data such that it indisputably tends to underestimate, rather than over-estimate, net GHG project benefits.
+To ensure that GHG fluxes are estimated in a way that is accurate, verifiable, transparent, and
+consistent across measurement periods, the project must establish and document clear standard
+operating procedures and procedures for ensuring data quality. At a minimum, these procedures
+must include:
+
+
+Comprehensive documentation of all field measurements carried out in the project area.
+This document must be detailed enough to allow replication of sampling in the event of
+staff turnover between monitoring periods
+
+
+
+Training procedures for all persons involved in field measurement or data analysis. The
+scope and date of all training must be documented
+
+
+
+A protocol for assessing the accuracy of plot measurements using a check cruise and a
+plan for correcting the inventory if errors are discovered
+
+
+
+Protocols for assessing data for outliers, transcription errors, and consistency across
+measurement periods
+
+
+
+Data sheets must be safely archived for the life of the project. Data stored in electronic
+formats must be backed up
+
+Expert judgement
+The use of expert judgment for the selection and interpretation of methods, selection of input data
+to fill gaps in available data, and selection of data from a range of possible values or uncertainty
+26 Typically, citations for sources of data used should include: the report or paper title, publisher, page numbers,
+
+publication date etc. (or a detailed web address). If web-based reports are cited, hardcopies should be included as
+annexes in the PD if there is any likelihood that such reports may not be permanently available.
+
+REDD+MF - 49
+
+VM0007, Version 1.6
+Sectoral Scope 14
+ranges, are all well established in the IPCC 2006 good practice guidance. Obtaining wellinformed judgments from domain experts regarding best estimates and uncertainties is an
+important aspect in various procedures throughout this methodology. The project proponent must
+use the guidance provided in Chapter 2 (Approaches to Data Collection), in particular, Section 2.2
+and Annex 2A.1 of the IPCC 2006 good practice guidance.
+Monitoring of Project Implementation
+Information must be provided, and recorded, to establish that:
+1) The geographic position of the project boundary is recorded for all areas of land. The
+geographic coordinates of the project boundary (and any stratification or buffer zones
+inside the boundary) are established, recorded and archived. This can be achieved by
+field survey (eg, using GPS), or by using georeferenced spatial data (eg, maps, GIS
+datasets, orthorectified aerial photography or georeferenced remote sensing images).
+The above also applies to the recording of strata, including strata resulting from peatland
+fires in the project scenario.
+2) Commonly accepted principles of land use inventory and management are implemented.
+
+
+Standard operating procedures (SOPs) and quality control/quality assurance
+(QA/QC) procedures for inventories including field data collection and data
+management must be applied. Use or adaptation of SOPs already applied in national
+land use monitoring, or available from published handbooks, or from the latest IPCC
+guidance documents (GPG–LULUCF, Reporting Guidelines, is recommended
+
+
+
+Apply SOPs, especially for actions likely to cause peat disturbances
+
+
+
+The project plan, together with a record of the plan as actually implemented during
+the project must be available for validation or verification, as appropriate
+
+For WRC project activities, continued compliance with the applicability conditions of this
+methodology must be ensured by monitoring that:
+
+
+The water table is not lowered except where the project converts open water to tidal
+wetlands, or improves the hydrological connection to impounded waters
+
+
+
+The burning of organic soil as a project activity does not occur
+
+
+
+Peatland fires within the project area do not occur in the project scenario. If they do
+occur as non-catastrophic events, they are accounted for by cancelling the Fire
+Reduction Premium for the entire project or the individual project activity instance.
+
+
+
+Nitrogen fertilizers are not used within the project area in the project scenario
+
+REDD+MF - 50
+
+VM0007, Version 1.6
+Sectoral Scope 14
+REDD
+For monitoring changes in forest cover and carbon stock changes, the monitoring plan must use
+the methods given in Module M-REDD. All relevant parameters from the modules are to be
+included in the monitoring plan.
+ARR
+For monitoring carbon stock changes, the monitoring plan must use the methods given in module
+M-ARR. All relevant parameters from the modules are to be included in the monitoring plan.
+WRC
+For monitoring GHG emissions from peatland or tidal wetlands, the monitoring plan must use the
+methods given in Module M-PEAT or M-TW, respectively. All relevant parameters from the
+modules are to be included as the SOC pool in the monitoring plan.
+9.3.2
+
+Monitoring
+
+Ex-post monitoring must have two key aspects:
+TASK 1. Monitoring according to monitoring plan
+TASK 2. Revising the baseline for future project crediting periods
+TASK 1: Monitoring According to the Monitoring Plan
+Monitoring of Key Baseline Variables
+REDD
+Information required to periodically reassess the project baseline must be collected during the
+entire project crediting period. Key variables to be measured are:
+
+
+Changes in forest cover in the Reference Regions for Deforestation (RRD) (at a minimum
+of every 10 years), as specified in Module M-REDD and where relevant in Module BLUP.
+
+
+
+Spatial variable datasets used to model the location of deforestation, as specified in
+Module BL-UP. As a minimum, the variables used in the first baseline assessment must
+be monitored at the time of the re-assessment to determine if they have changed.
+
+
+
+Where required, carbon stock data, as specified in Module M-REDD.
+
+REDD+MF - 51
+
+VM0007, Version 1.6
+Sectoral Scope 14
+ARR
+Changes in biomass carbon stocks in the project area must be measured before each verification
+as part of the monitoring. Methods must be consistent with the methodology given in Module MARR and any technical guidance specified in the monitoring plan.
+WRC
+In projects with a WRC component, the information required to periodically reassess the project
+baseline must include changes in the drainage layout and climate variables, as specified in
+Module BL-PEAT or BL-TW and, where relevant, Modules BL-UP and BL-PL and any technical
+guidance specified in the monitoring plan.
+Carbon stocks in most cases will not have to be monitored during the baseline period, except in
+the following cases:
+
+
+Where there is an increased accuracy and precision of the ex-ante carbon stock
+estimates, which are also used for ex-post calculations. Verifiable evidence must be
+provided to VCS verifiers that the accuracy and precision of the carbon stock estimates
+have improved, compared to previous estimates. Any change in carbon stock densities
+will be subject to validation.
+
+
+
+Where emissions reductions/removals are claimed for avoiding forest degradation
+caused by extraction of wood for fuel or charcoal or carbon sequestration in forest land
+that would have been deforested in the baseline case. In such cases, the methods
+described in Module M-REDD.
+
+Carbon stocks must be reassessed at every baseline revision.
+Where emissions are included in the baseline, they must be monitored in the project case,
+following the methodological procedures described in the emission modules (E-BPB, E-FFC, and
+E-NA).
+The calculations of actual carbon stock changes and greenhouse gas emissions must be
+reported using transparent procedures.
+Changes in water depths in the project area (and leakage belt for unplanned deforestation), must
+be measured before each verification as part of the monitoring. Methods must be consistent with
+the methodology given in Module M-PEAT or M-TW and any technical guidance specified in the
+monitoring plan.
+Monitoring of Leakage
+All significant sources of leakage identified are subject to monitoring, following the procedures
+outlined in the monitoring plan. Such procedures must be consistent with the applicable leakage
+
+REDD+MF - 52
+
+VM0007, Version 1.6
+Sectoral Scope 14
+modules (LK-ASP, LK-ASU, LK-ME, LK-DFW, LK-ARR and LK-ECO). All relevant parameters in
+the leakage modules must be included in the monitoring plan.
+TASK 2: Revising the Baseline for Future Project Crediting Periods
+Baselines must be revised over time because agents, drivers and underlying causes of
+deforestation as well as drainage layouts and climate variables change dynamically. The
+methodological procedure used to update the baseline must be the same as used in the first
+estimation.
+
+10
+
+REFERENCES
+IPCC. 2003. Good Practice Guidance for Land Use, Land Use Change and Forestry. Institute for
+Global Environmental Strategies (IGES). http://www.ipccnggip.iges.or.jp/public/gpglulucf/gpglulucf.html
+IPCC. 2006. 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Institute for Global
+Environmental Strategies (IGES). http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html
+Additional information can be found in the modules referenced throughout this methodology.
+
+REDD+MF - 53
+
+VM0007, Version 1.6
+Sectoral Scope 14
+
+DOCUMENT HISTORY
+Version
+
+Date
+
+Comment
+
+v1.0
+
+3 Dec 2010
+
+Initial version
+
+v1.1
+
+7 Sept 2011
+
+The REDD Methodology Framework was updated to limit the
+reassessment of the unplanned baseline scenario to every ten years.
+The methodology was also incremented to reflect a revision to the
+module for estimation of baseline carbon stock changes and
+greenhouse gas emission from unplanned deforestation (BL-UP), v2.0,
+which was approved under the VCS Program on 7 September 2011.
+
+v1.2
+
+31 July 2012
+
+Table 2 was removed to avoid confusion with Table 1. Table 1 is now
+the exclusive source in the methodology for determining
+included/excluded pools.
+
+v1.3
+
+20 Nov 2012
+
+The REDD Methodology Framework was updated to include avoided
+planned degradation as an allowable activity:
+
+
+
+
+
+Removed the applicability condition “where post-deforestation
+land use constitutes reforestation this module must not be
+used”
+Renamed “planned deforestation” to “planned deforestation and
+planned degradation”
+Added the text “hereafter in this module, “deforestation” refers
+to both deforestation and planned degradation”
+
+A correction made to equation 8 to appropriately calculate the total
+VCUs available for issuance.
+v1.4
+
+3 May 2013
+
+Applicability condition for unplanned deforestation “where postdeforestation land use constitutes reforestation this module must not be
+used” was removed.
+Equations 4, 5 and 6 were revised to appropriately account for the
+buffer.
+
+v1.5
+
+9 March 2015
+
+Updated to include REDD+ project activities on peatlands, as well as
+activities that include ARR.
+Methodology now includes six new modules: VMD0041 BL-ARR,
+VMD0042 BL-PEAT, VMD0043 LK-ARR, VMD0044 LK-ECO, VMD0045
+M-ARR, and VMD0046 M-PEAT.
+
+v1.6
+
+8 Sep 2020
+
+Updated to include CIW and RWE project activities on tidal wetlands.
+Methodology now includes three new modules: VMD0050 BL-TW,
+VMD0051 M-TW and VMD0052 ADD-AM.
+
+REDD+MF - 54
+
+
